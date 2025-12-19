@@ -1,12 +1,53 @@
 #include "rigidbody.hpp"
 
-void RigidBody::Integrate(float delta)
+RigidBody::RigidBody(PhysicsID in, const glm::vec3& inPos, const glm::vec3& inVelocity, float inRadius)
+    : physicsID(in), position(inPos), velocity(inVelocity), radius(inRadius), collider(Collider::BOX_COLLIDER)
 {
-	Position += Velocity * delta;
-	collider.Position = this->Position;
+    switch (in)
+    {
+    case BOX:
+        InitBoxCollider();
+        break;
+    case PLANE:
+        InitPlaneCollider();
+        break;
+    case SPHERE:
+        InitSphereCollider();
+        break;
+    default:
+        break;
+    }
+    InitRigidBody(this->position, this->velocity);
 }
 
-void RigidBody::SetVelocity(glm::vec3 vel)
+void RigidBody::InitRigidBody(const glm::vec3& inPos, const glm::vec3& inVelocity)
 {
-	Velocity = vel;
+    this->position = inPos;
+    this->velocity = inVelocity;
+}
+
+void RigidBody::Integrate(float delta)
+{
+    // Basic integration using Euler method
+    position += velocity * delta;
+}
+
+void RigidBody::SetVelocity(const glm::vec3& vel)
+{
+    velocity = vel;
+}
+
+void RigidBody::InitBoxCollider()
+{
+    this->collider = Collider(Collider::BOX_COLLIDER);
+}
+
+void RigidBody::InitPlaneCollider()
+{
+    this->collider = Collider(Collider::PLANE_COLLIDER);
+}
+
+void RigidBody::InitSphereCollider()
+{
+    this->collider = Collider(Collider::SPHERE_COLLIDER);
 }

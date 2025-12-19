@@ -1,33 +1,20 @@
-#ifndef physics_hpp
-#define physics_hpp
-
 //std
-#include <assert.h>
+#ifndef PHYSICS_HPP
+#define PHYSICS_HPP
 
-//GLM
-#include <GLM/glm/glm.hpp>
-#include <GLM/glm/gtc/quaternion.hpp>
-#include <GLM/glm/common.hpp>
-
-//Project Files
+#include <vector>
+#include "rigidbody.hpp"
 #include "../../scene.hpp"
-
-//Pragma
-#pragma once
-
-//enum PhysicsType { RigidBody, SoftBody, LiquidBody };
 
 class PhysicsEngine
 {
 public:
-	PhysicsEngine()
-	{
-	
-	}
+    void Simulate(float delta, Scene& scene);
+    void HandleCollisions(Scene& scene);
 
-	void Simulate(float delta, Scene& scene);
-
-	void HandleCollisions(Scene& scene);
+private:
+    bool CheckCollision(const RigidBody& bodyA, const RigidBody& bodyB);
+    void ResolveCollision(RigidBody& bodyA, RigidBody& bodyB);
 };
 
-#endif /* physics_hpp */
+#endif /* PHYSICS_HPP */

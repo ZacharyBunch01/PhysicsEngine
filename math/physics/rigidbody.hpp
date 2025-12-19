@@ -1,45 +1,43 @@
-#ifndef rigidbody_hpp
-#define rigidbody_hpp
+#ifndef RIGIDBODY_HPP
+#define RIGIDBODY_HPP
 
-//GLM
-#include <GLM/glm/glm.hpp>
-#include <GLM/glm/gtc/quaternion.hpp>
-#include <GLM/glm/common.hpp>
+// GLM
+#include <glm/glm/glm.hpp>
+#include <glm/glm/gtc/quaternion.hpp>
+#include <glm/glm/common.hpp>
 
-//Project Files
-#include "../collider.hpp"
+// Project Files
+#include "collider.hpp"
 
-enum RigidBodyType { BoxBody, SphereBody, PlaneBody };
+enum PhysicsID { BOX, SPHERE, PLANE, NULLBODY };
 
 class RigidBody
 {
 public:
-	RigidBody()
-	{
+    RigidBody(PhysicsID in, const glm::vec3& inPos, const glm::vec3& inVelocity, float inRadius);
 
-	}
+    void InitRigidBody(const glm::vec3& inPos, const glm::vec3& inVelocity);
 
-	RigidBody(const glm::vec3& inPos, const glm::vec3& inVelocity) : Position(inPos), Velocity(inVelocity)
-	{
+    // Updates rigidbody position; called by the physics engine
+    void Integrate(float delta);
 
-	}
-	
-	void InitRigidBody(glm::vec3 inPos, const glm::vec3& inVelocity)
-	{
-		this->Position = inPos;
-		this->Velocity = inVelocity;
-	}
+    glm::vec3 position = glm::vec3(0.0f);
+    glm::vec3 velocity = glm::vec3(0.0f);
+    float radius = 0.0f;
+    float mass = 1.0f; // Default mass
+    float restitution = 0.5f; // Default restitution (elasticity)
 
-	// Updates rigidbody position; called by the physics engine
-	void Integrate(float delta);
+    // Update velocity according to input
+    void SetVelocity(const glm::vec3& vel);
 
-	glm::vec3 Position;
-	glm::vec3 Velocity;
+    Collider collider;
 
-	// Update velocity according to input
-	void SetVelocity(glm::vec3 vel);
+private:
+    PhysicsID physicsID;
 
-	Collider collider = Collider(Collider::SPHERE_COLLIDER);
+    void InitBoxCollider();
+    void InitPlaneCollider();
+    void InitSphereCollider();
 };
 
-#endif /* rigidbody_hpp */
+#endif /* RIGIDBODY_HPP */
