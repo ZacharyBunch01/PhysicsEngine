@@ -1,29 +1,14 @@
 #ifndef object_hpp
 #define object_hpp
 
-//std
-#include <stdio.h>
-#include <vector>
+//Project files
+#include "math/physics/rigidBody.hpp"
 
-//GLM
-#include <GLM/glm/glm.hpp>
-#include <GLM/glm/gtc/quaternion.hpp>
-#include <GLM/glm/common.hpp>
-
-//Project Files
-#include "math/physics/rigidbody.hpp"
-
-//Pragma
-#pragma once
-
-// PURPOSE : Object class.
-
-enum PhysicsID { BOX, SPHERE, PLANE, NULLBODY };
-
-class Object
+struct Object
 {
 public:
-	explicit Object(const char* modelPath, PhysicsID in);
+	Object(const char* modelPath, PhysicsID in);
+	Object(const char* modelPath, PhysicsID in, float inRadius);
 
 	const char* modelFile;
 
@@ -37,9 +22,7 @@ public:
 	glm::vec3 Force = glm::vec3(0.0f);
 
 	//Collider collider;
-	//PhysicsType physicsID = RigidBody;
-	RigidBody rigidBody;
-	RigidBodyType rigidBodyType = BoxBody;
+	RigidBody rigidBody = RigidBody(BOX, glm::vec3(0.0f), glm::vec3(0.0f), 0.0f);
 
 	std::vector <glm::vec3> vertices;
 	std::vector <glm::vec2> textureCoords;
@@ -64,6 +47,8 @@ private:
 
 	const glm::vec3& minExtents = glm::vec3(0.0f);
 	const glm::vec3& maxExtents = glm::vec3(0.0f);
+
+	float radius = 0.0f;
 };
 
 #endif /* object_hpp */

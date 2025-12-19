@@ -3,6 +3,7 @@
 
 //std
 #include <vector>
+#include <memory>
 
 //GLM
 #include <GLM/glm/glm.hpp>
@@ -21,15 +22,15 @@ private:
 	std::vector <Light*> mLights;
 
 public:
-	void AddObject(Object* object);
-	void RemoveObject(Object* object);
+	void AddObject(std::shared_ptr<Object> object);
+	void RemoveObject(std::shared_ptr<Object> object);
 
 	int GetNumOfObjects();
 
-	Object *GetObject(int index);
+	Object std::unique_ptr<Object>GetObject(int index);
 
-	void AddLight(Light* light);
-	void RemoveLight(Light* light);
+	void AddLight(std::shared_ptr<Light> light);
+	void RemoveLight(std::shared_ptr<Light> light);
 
 	void RenderScene();
 	void RenderShadows();

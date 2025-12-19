@@ -4,6 +4,8 @@
 #include "player.hpp"
 //#include "../main.cpp"
 
+#include <memory>
+
 extern unsigned int shaderID, depthShaderID;
 extern glm::mat4 modelMat;
 extern glm::vec3 direction;
@@ -11,7 +13,44 @@ extern Player player;
 
 // PURPOSE : Initializes vertex arrays and buffers. Used to pass data to shaders.
 
-Object::Object(const char* modelPath, PhysicsID id, auto in1, auto in2) : modelFile(modelPath), physicsID(id)
+Object::Object(const char *modelPath, PhysicsID id) : modelFile(modelPath), physicsID(id)
+{
+	LoadOBJ(modelPath, vertices, textureCoords, normals);
+
+	glGenVertexArrays(1, &VAO);
+	glBindVertexArray(VAO);
+
+	glGenBuffers(1, &VBO);
+	glBindBuffer(GL_ARRAY_BUFFER, VBO);
+	glBufferData(GL_ARRAY_BUFFER, vertices.size() * sizeof(glm::vec3), &vertices[0], GL_STATIC_DRAW);
+
+	glGenBuffers(1, &normalBuffer);
+	glBindBuffer(GL_ARRAY_BUFFER, normalBuffer);
+	glBufferData(GL_ARRAY_BUFFER, normals.size() * sizeof(glm::vec3), &normals[0], GL_STATIC_DRAW);
+
+	glGenBuffers(1, &textureBuffer);
+	glBindBuffer(GL_ARRAY_BUFFER, textureBuffer);
+	glBufferData(GL_ARRAY_BUFFER, textureCoords.size() * sizeof(glm::vec2), &textureCoords[0], GL_STATIC_DRAW);
+
+	InitPhysicsBody();
+	rigidBody.InitRigidBody(Position, Velocity);
+
+	if (id == BOX)
+	{
+		rigidBody = RigidBody(BOX, Position, Velocity, 0.0f);
+	}
+	else if (id == PLANE)
+	{
+		rigidBody = RigidBody(PLANE, Position, Velocity, 0.0f);
+	}
+	else if (id == SPHERE)
+	{
+		radius = 1.0f;
+		rigidBody = RigidBody(SPHERE, Position, Velocity, radius);
+	}
+}
+
+Object::Object(const char* modelPath, PhysicsID id, float inRadius) : modelFile(modelPath), physicsID(id), radius(inRadius)
 {
 	LoadOBJ(modelPath, vertices, textureCoords, normals);
 
@@ -30,15 +69,31 @@ Object::Object(const char* modelPath, PhysicsID id, auto in1, auto in2) : modelF
 	glBindBuffer(GL_ARRAY_BUFFER, textureBuffer);
 	glBufferData(GL_ARRAY_BUFFER, textureCoords.size() * sizeof(glm::vec3), &textureCoords[0], GL_STATIC_DRAW);
 
-	InitPhysicsBody(in1, in2);
+	InitPhysicsBody();
+	
+	InitPhysicsBody();
 	rigidBody.InitRigidBody(Position, Velocity);
+
+	if (id == BOX)
+	{
+		rigidBody = RigidBody(BOX, Position, Velocity, 0.0f);
+	}
+	else if (id == PLANE)
+	{
+		rigidBody = RigidBody(PLANE, Position, Velocity, 0.0f);
+	}
+	else if (id == SPHERE)
+	{
+		radius = 1.0f;
+		rigidBody = RigidBody(SPHERE, Position, Velocity, radius);
+	}
 }
 
 // PURPOSE : Renders object; runs in while loop in main.
 
 void Object::render()
 {
-	Position = rigidBody.Position;
+	Position = rigidBody.position;
 
 	modelMat = CheckMatrices(*this);
 
@@ -65,7 +120,7 @@ void Object::render()
 	unsigned int directionID = glGetUniformLocation(shaderID, "direction");
 	glUniform3f(directionID, direction.x, direction.y, direction.z);
 
-	unsigned int viewPosID = glGetUniformLocation(shaderID, "viwePos");
+	unsigned int viewPosID = glGetUniformLocation(shaderID, "viewPos");
 	glUniform3f(viewPosID, player.Position.x, player.Position.y, player.Position.z);
 
 	glDisableVertexAttribArray(0);
@@ -106,5 +161,5 @@ void Object::InitPhysicsBody()
 
 void Object::ApplyGravity(float dt, glm::vec3 gravity)
 {
-	rigidBody.Position += gravity * dt * 3.0f;
+	rigidBody.position += gravity * dt * 3.0f;
 }
