@@ -72,6 +72,26 @@ void ComputeControls()
         horizontalAngle -= mouseSpeed * float((float)window.getWidth() / 2 - xPos) * -(deltaTime) * 2;
         verticalAngle -= mouseSpeed * float((float)window.getHeight() / 2 - yPos) * -(deltaTime) * 2;
 
+        if (glfwGetKey(window.getWindow(), I))
+        {
+            verticalAngle += mouseSpeed * float((float)window.getHeight() / 2) * -(deltaTime) * 2;
+        }
+        
+        if (glfwGetKey(window.getWindow(), K))
+        {
+            verticalAngle -= mouseSpeed * float((float)window.getHeight() / 2) * -(deltaTime) * 2;
+        }
+
+        if (glfwGetKey(window.getWindow(), J))
+        {
+            horizontalAngle += mouseSpeed * float((float)window.getWidth() / 2) * -(deltaTime) * 2;
+        }
+
+        if (glfwGetKey(window.getWindow(), L))
+        {
+            horizontalAngle -= mouseSpeed * float((float)window.getWidth() / 2) * -(deltaTime) * 2;
+        }
+
         // Controller controls
         if (present == 1)
         {
