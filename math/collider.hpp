@@ -62,6 +62,8 @@ public:
 
 	CollisionData Collision(const Collider& other) const;
 
+	virtual void Transform(const glm::vec3& translation);
+
 	void MoveCollider(glm::vec3 inPos);
 
 	inline int GetType() const 
@@ -135,6 +137,9 @@ public:
 
 	CollisionData CollisionBoundingSphere(const BoundingSphere& sphere);
 
+	virtual void Transform(const glm::vec3& translation);
+
+
 	inline const glm::vec3 GetCenter() const
 	{
 		return center;
@@ -146,7 +151,7 @@ public:
 	}
 
 private:
-	const glm::vec3 center;
+	glm::vec3 center;
 	float radius;
 };
 

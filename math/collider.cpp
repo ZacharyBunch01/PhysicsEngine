@@ -10,8 +10,6 @@ float MaxFunction(glm::vec3& vec)
 			result = vec[i];
 	}
 
-	std::cout << "Result : " << result << std::endl;
-
 	return result;
 }
 
@@ -35,8 +33,7 @@ void Collider::MoveCollider(glm::vec3 inPos)
 	{
 	case(BOX_COLLIDER):
 
-
-			break;
+		break;
 	case(PLANE_COLLIDER):
 		
 
@@ -50,16 +47,95 @@ void Collider::MoveCollider(glm::vec3 inPos)
 
 CollisionData Collider::Collision(const Collider& other) const
 {
-	if (type == SPHERE_COLLIDER && other.GetType() == SPHERE_COLLIDER)
+	BoundingBox* box;
+	BoundingSphere* sphere;
+	BoundingPlane* plane;
+
+	// This is really terrible, I'm so sorry.
+	switch (type)
 	{
-		BoundingSphere* self = (BoundingSphere*)this;
-		return self->CollisionBoundingSphere((BoundingSphere&)other);
+	case(BOX_COLLIDER):
+
+		switch (other.GetType())
+		{
+		case(BOX_COLLIDER):
+
+			break;
+
+		case(SPHERE_COLLIDER):
+
+			break;
+
+		case(PLANE_COLLIDER):
+
+			break;
+		}
+
+		break;
+
+	case(SPHERE_COLLIDER):
+
+		switch (other.GetType())
+		{
+		case(BOX_COLLIDER):
+
+			/*
+			CollisionData collisionData = scene.GetObject(i)->GetBoundingSphere().CollisionBoundingBox(scene.GetObject(i)->GetBoundingBox());
+
+			if (collisionData.getDoesCollide())
+			{
+				scene.GetObject(i)->rigidBody.SetVelocity(scene.GetObject(i)->Velocity * glm::vec3(-1.0f));
+				scene.GetObject(j)->rigidBody.SetVelocity(scene.GetObject(j)->Velocity * glm::vec3(-1.0f));
+			}
+			*/
+
+			break;
+
+		case(SPHERE_COLLIDER):
+
+			sphere = (BoundingSphere*)this;
+			return sphere->CollisionBoundingSphere((BoundingSphere&)other);
+
+			break;
+
+		case(PLANE_COLLIDER):
+
+			break;
+		}
+
+		break;
+
+	case(PLANE_COLLIDER):
+
+		switch (other.GetType())
+		{
+		case(BOX_COLLIDER):
+
+			break;
+
+		case(SPHERE_COLLIDER):
+
+			break;
+
+		case(PLANE_COLLIDER):
+
+			break;
+		}
+
+		break;
 	}
+
 
 	exit(1);
 
 	return CollisionData(false, 0);
 }
+
+void Collider::Transform(const glm::vec3& translation)
+{
+
+}
+
 
 CollisionData BoundingBox::CollisionBoundingBox(const BoundingBox& box) const
 {
@@ -94,4 +170,9 @@ CollisionData BoundingSphere::CollisionBoundingSphere(const BoundingSphere& sphe
 	float distance = centerDistance - radiusDistance;
 
 	return CollisionData(centerDistance < radiusDistance, distance);
+}
+
+void BoundingSphere::Transform(const glm::vec3& translation)
+{
+	center += translation;
 }
