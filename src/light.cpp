@@ -1,6 +1,5 @@
 #include "light.hpp"
 
-#define GLM_ENABLE_EXPERIMENTAL
 #include <GLM/glm/gtc/type_ptr.hpp>
 #include <GLM/glm/gtx/string_cast.hpp>
 
@@ -75,6 +74,8 @@ float Light::getFarPlane()
 
 void Light::setUniforms()
 {
+	glUseProgram(shaderID);
+	
 	unsigned int lightPosID = glGetUniformLocation(shaderID, "lightPos");
 	glUniform3f(lightPosID, Position.x, Position.y, Position.z);
 
@@ -89,6 +90,8 @@ void Light::setUniforms()
 
 	unsigned int lightMatrixShaderID = glGetUniformLocation(shaderID, "lightMat");
 	glUniformMatrix4fv(lightMatrixShaderID, 1, GL_FALSE, &lightMat[0][0]);
+
+	glUseProgram(depthShaderID);
 
 	unsigned int lightMatrixID = glGetUniformLocation(depthShaderID, "lightMat");
 	glUniformMatrix4fv(lightMatrixID, 1, GL_FALSE, &lightMat[0][0]);

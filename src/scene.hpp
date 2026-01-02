@@ -1,5 +1,3 @@
-#ifndef scene_hpp
-#define scene_hpp
 
 //std
 #include <vector>
@@ -41,4 +39,3 @@ public:
 	glm::vec3 gravity = glm::vec3(0.0f, -1.0f, 0.0f);
 };
 
-#endif scene_hpp

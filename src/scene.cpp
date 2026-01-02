@@ -18,14 +18,12 @@ void Scene::RemoveObject(Object* object)
 	if (!object)
 		return;
 
-	for (Object* object : mObjects)
-		object->destroy();
-
 	auto itr = std::find(mObjects.begin(), mObjects.end(), object);
 
 	if (itr == mObjects.end())
 		return;
-
+	
+	(*itr)->destroy();
 	mObjects.erase(itr);
 }
 
@@ -36,6 +34,7 @@ int Scene::GetNumOfObjects()
 
 Object *Scene::GetObject(int index)
 {
+	if (index < 0 || index >= (int)mObjects.size()) return nullptr;
 	return mObjects[index];
 }
 
@@ -73,8 +72,8 @@ void Scene::RenderShadows()
 		glClear(GL_DEPTH_BUFFER_BIT);
 		glCullFace(GL_FRONT);
 
-		//for (Object* object : mObjects)
-			//object->render();
+		for (Object* object : mObjects)
+			object->render();
 	}
 
 	// Reset framebuffer, viewport, and screen
@@ -89,14 +88,20 @@ void Scene::RenderScene()
 {
 	for (Light* light : mLights)
 	{
-		//light->render();
+		light->render();
+
+		// RenderShadows();
 
 		glActiveTexture(GL_TEXTURE0);
 		glBindTexture(GL_TEXTURE_2D, light->getDepthMap());
+	} 
+
+		RenderShadows();
 
 		for (Object* object : mObjects)
 			object->render();
-	}
+
+//	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 }
 
 void Scene::Update(float dt)
@@ -112,9 +117,10 @@ void Scene::Update(float dt)
 
 void Scene::Unload()
 {
-	for (Object* object : mObjects)
-		RemoveObject(object);
+	while (!mObjects.empty()) 
+		RemoveObject(mObjects.back());
 
-	for (Light* light : mLights)
-		RemoveLight(light);
+	while (!mLights.empty())
+		RemoveLight(mLights.back());
+
 }
