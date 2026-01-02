@@ -5,7 +5,7 @@
 extern Window window;
 extern unsigned int shaderID, depthShaderID;
 
-void Scene::AddObject(Object* object)
+void Scene::AddObject(std::shared_ptr<Object> object)
 {
 	if (object == nullptr)
 		return;
@@ -13,7 +13,7 @@ void Scene::AddObject(Object* object)
 	mObjects.push_back(object);
 }
 
-void Scene::RemoveObject(Object* object)
+void Scene::RemoveObject(std::shared_ptr<Object> object)
 {
 	if (!object)
 		return;
@@ -38,7 +38,7 @@ Object *Scene::GetObject(int index)
 	return mObjects[index];
 }
 
-void Scene::AddLight(Light* light)
+void Scene::AddLight(std::shared_ptr<Light> light)
 {
 	if (light == nullptr)
 		return;
@@ -46,7 +46,7 @@ void Scene::AddLight(Light* light)
 	mLights.push_back(light);
 }
 
-void Scene::RemoveLight(Light* light)
+void Scene::RemoveLight(std::shared_ptr<Light> light)
 {
 	if (!light)
 		return;
@@ -63,7 +63,7 @@ void Scene::RenderShadows()
 {
 	for (Light* light : mLights)
 	{
-		light->render(); // Applies uniform variables to the shader.
+		// light->render(); // Applies uniform variables to the shader.
 
 		// Render framebuffer texture
 		glUseProgram(depthShaderID);
@@ -76,7 +76,9 @@ void Scene::RenderShadows()
 			object->render();
 	}
 
-	// Reset framebuffer, viewport, and screen
+	glUseProgram(shaderID);
+
+	// Reset framebuffer, viewport, and screen.
 	glBindFramebuffer(GL_FRAMEBUFFER, 0);
 	glViewport(0, 0, int(window.getWidth()), int(window.getHeight()));
 	glUseProgram(shaderID);
@@ -109,12 +111,10 @@ void Scene::Update(float dt)
 	for (Object* object : mObjects)
 	{
 		if (object->affectedByGravity)
-		{
 			object->ApplyGravity(dt, gravity);
-		}
 	}
 }
-
+ 
 void Scene::Unload()
 {
 	while (!mObjects.empty()) 

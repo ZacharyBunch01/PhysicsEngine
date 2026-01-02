@@ -36,7 +36,7 @@ private:
 
 	const unsigned int sWidth = 1024, sHeight = 1024; // Shadow texture resolution.
 
-	float nearPlane = 1.0f, farPlane = 10.0f; // Min and max view of the shadow depth buffer.
+	float nearPlane = 0.1f, farPlane = 200.0f; // Min and max view of the shadow depth buffer.
 
 	glm::mat4 lightMat;
 
