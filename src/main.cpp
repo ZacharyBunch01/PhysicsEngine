@@ -57,9 +57,9 @@ int main()
     floorObject.rigidBody.InitRigidBody(floorObject.Position, floorObject.Velocity);
     floorObject.affectedByGravity = false;
 
-    scene.AddObject(&cube);
-    scene.AddObject(&floorObject);
-    scene.AddLight(&light);
+    scene.AddObject(std::make_unique<Object>(cube));
+    scene.AddObject(std::make_unique<Object>(floorObject));
+    scene.AddLight(std::make_unique<Light>(light));
     //scene.RemoveLight(&light);
     //scene.AddLight(&light2);
 

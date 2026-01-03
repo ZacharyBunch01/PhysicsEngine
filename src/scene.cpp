@@ -2,67 +2,68 @@
 #include "window/window.hpp"
 #include "math/matrices.hpp"
 
+#include <algorithm>
+
 extern Window window;
 extern unsigned int shaderID, depthShaderID;
 
-void Scene::AddObject(std::shared_ptr<Object> object)
+void Scene::AddObject(std::unique_ptr<Object> object)
 {
-	if (object == nullptr)
-		return;
+	if (!object) return;
 
-	mObjects.push_back(object);
+	mObjects.push_back(std::move(object));
 }
 
-void Scene::RemoveObject(std::shared_ptr<Object> object)
+void Scene::RemoveObject(Object* object)
 {
 	if (!object)
 		return;
 
-	auto itr = std::find(mObjects.begin(), mObjects.end(), object);
+	auto itr = std::find_if(mObjects.begin(), mObjects.end(),
+        [object](const std::unique_ptr<Object>& ptr) { return ptr.get() == object; });
 
-	if (itr == mObjects.end())
-		return;
+	if (itr == mObjects.end()) return;
 	
 	(*itr)->destroy();
 	mObjects.erase(itr);
 }
 
-int Scene::GetNumOfObjects()
+int Scene::GetNumOfObjects() const
 {
-	return mObjects.size();
+	return static_cast<int>(mObjects.size());
 }
 
-Object *Scene::GetObject(int index)
+Object* Scene::GetObject(int index)
 {
-	if (index < 0 || index >= (int)mObjects.size()) return nullptr;
-	return mObjects[index];
+	if (index < 0 || index >= static_cast<int>(mObjects.size())) return nullptr;
+	return mObjects.at(index).get();
 }
 
-void Scene::AddLight(std::shared_ptr<Light> light)
+void Scene::AddLight(std::unique_ptr<Light> light)
 {
-	if (light == nullptr)
-		return;
+	if (light == nullptr) return;
 
-	mLights.push_back(light);
+	mLights.push_back(std::move(light));
 }
 
-void Scene::RemoveLight(std::shared_ptr<Light> light)
+void Scene::RemoveLight(Light* light)
 {
-	if (!light)
-		return;
+	if (!light) return;
 
-	auto itr = std::find(mLights.begin(), mLights.end(), light);
+	auto itr = std::find_if(mLights.begin(), mLights.end(), 
+	[light](const std::unique_ptr<Light>& ptr) { return ptr.get() == light; });
 
-	if (itr == mLights.end())
-		return;
+	if (itr == mLights.end()) return;
 
 	mLights.erase(itr);
 }
 
 void Scene::RenderShadows()
 {
-	for (Light* light : mLights)
+	for (auto& lightPtr : mLights)
 	{
+		Light* light = lightPtr.get();
+
 		// light->render(); // Applies uniform variables to the shader.
 
 		// Render framebuffer texture
@@ -72,8 +73,8 @@ void Scene::RenderShadows()
 		glClear(GL_DEPTH_BUFFER_BIT);
 		glCullFace(GL_FRONT);
 
-		for (Object* object : mObjects)
-			object->render();
+		for (auto& objectPtr : mObjects)
+			objectPtr->render();
 	}
 
 	glUseProgram(shaderID);
@@ -88,8 +89,10 @@ void Scene::RenderShadows()
 
 void Scene::RenderScene()
 {
-	for (Light* light : mLights)
+	for (auto& lightPtr : mLights)
 	{
+		Light* light = lightPtr.get();
+
 		light->render();
 
 		// RenderShadows();
@@ -100,27 +103,28 @@ void Scene::RenderScene()
 
 		RenderShadows();
 
-		for (Object* object : mObjects)
-			object->render();
+		for (auto& objectPtr : mObjects)
+			objectPtr->render();
 
 //	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 }
 
 void Scene::Update(float dt)
 {
-	for (Object* object : mObjects)
+	for (auto& objectPtr : mObjects)
 	{
-		if (object->affectedByGravity)
-			object->ApplyGravity(dt, gravity);
+		if (objectPtr ->affectedByGravity)
+			objectPtr->ApplyGravity(dt, gravity);
 	}
 }
  
 void Scene::Unload()
 {
-	while (!mObjects.empty()) 
-		RemoveObject(mObjects.back());
+	while (!mObjects.empty()) { 
+		mObjects.back()->destroy();
+		mObjects.pop_back();
+	}
 
 	while (!mLights.empty())
-		RemoveLight(mLights.back());
-
+		mLights.pop_back();
 }

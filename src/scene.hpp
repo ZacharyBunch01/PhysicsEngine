@@ -16,20 +16,20 @@
 class Scene
 {
 private:
-	std::vector <Object*> mObjects;
-	std::vector <Light*> mLights;
+	std::vector <std::unique_ptr<Object>> mObjects;
+	std::vector <std::unique_ptr<Light>> mLights;
 
 public:
-	void AddObject(std::shared_ptr<Object> object);
-	void RemoveObject(std::shared_ptr<Object> object);
+	void AddObject(std::unique_ptr<Object> object);
+	void RemoveObject(Object* object);
 
-	int GetNumOfObjects();
+	int GetNumOfObjects() const;
 
-	Object std::unique_ptr<Object>GetObject(int index);
+	Object* GetObject(int index);
 
-	void AddLight(std::shared_ptr<Light> light);
-	void RemoveLight(std::shared_ptr<Light> light);
-
+	void AddLight(std::unique_ptr<Light> light);
+	void RemoveLight(Light* light);
+	
 	void RenderScene();
 	void RenderShadows();
 
