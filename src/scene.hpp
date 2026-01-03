@@ -16,6 +16,7 @@
 class Scene
 {
 private:
+	// Using smart pointers for safety 
 	std::vector <std::unique_ptr<Object>> mObjects;
 	std::vector <std::unique_ptr<Light>> mLights;
 
