@@ -1,6 +1,3 @@
-#ifndef callbacks_hpp
-#define callbacks_hpp
-
 //std
 #include <stdio.h>
 #include <iostream>
@@ -51,4 +48,3 @@ void windowSizeCallback(GLFWwindow* glfwWindow, int nWidth, int nHeight);
 //Framebuffer size
 void frameBufferSizeCallback(GLFWwindow* glfwWindow, int windowFramebufferWidth, int windowFrameBufferHeight);
 
-#endif /* callbacks_hpp */

@@ -1,6 +1,3 @@
-#ifndef keycode_hpp
-#define keycode_hpp
-
 // PURPOSE : Defines macros for key inputs.
 
 //Pragma
@@ -165,4 +162,3 @@
 #define modAlt 0x0004
 #define modSuper 0x0008
 
-#endif /* keycode_hpp */

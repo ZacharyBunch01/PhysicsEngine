@@ -1,6 +1,3 @@
-#ifndef window_hpp
-#define window_hpp
-
 //std
 #include <stdio.h>
 #include <stdlib.h>
@@ -48,4 +45,3 @@ private:
     GLFWwindow* window;
 };
 
-#endif /* window_hpp */

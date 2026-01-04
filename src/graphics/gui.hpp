@@ -1,6 +1,3 @@
-#ifndef gui_hpp
-#define gui_hpp
-
 //Project Files
 #include "../window/window.hpp"
 
@@ -16,4 +13,3 @@ namespace GUI
 	void Destroy();
 }
 
-#endif /* guiInit_hpp */

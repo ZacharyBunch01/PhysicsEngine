@@ -1,7 +1,8 @@
-#ifndef COLLIDER_HPP
-#define COLLIDER_HPP
-
+// GLM
 #include <glm/glm/glm.hpp>
+
+// Pragma
+#pragma once
 
 class Collider
 {
@@ -50,4 +51,3 @@ private:
     float planeDistance;
 };
 
-#endif /* COLLIDER_HPP */

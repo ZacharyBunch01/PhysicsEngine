@@ -1,6 +1,3 @@
-#ifndef collider_hpp
-#define collider_hpp
-
 //std
 #include <stdio.h>
 #include <iostream>
@@ -155,4 +152,3 @@ private:
 	float radius;
 };
 
-#endif /* collider_hpp */

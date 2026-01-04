@@ -1,6 +1,3 @@
-#ifndef RIGIDBODY_HPP
-#define RIGIDBODY_HPP
-
 // GLM
 #include <glm/glm/glm.hpp>
 #include <glm/glm/gtc/quaternion.hpp>
@@ -8,6 +5,9 @@
 
 // Project Files
 #include "collider.hpp"
+
+// Pragma
+#pragma once
 
 enum PhysicsID { BOX, SPHERE, PLANE, NULLBODY };
 
@@ -40,4 +40,3 @@ private:
     void InitSphereCollider();
 };
 
-#endif /* RIGIDBODY_HPP */

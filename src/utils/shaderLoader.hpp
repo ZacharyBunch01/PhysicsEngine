@@ -1,6 +1,3 @@
-#ifndef shaderLoader_hpp
-#define shaderLoader_hpp
-
 //std
 #include <stdio.h>
 #include <iostream>
@@ -38,4 +35,3 @@ public:
 
 unsigned int LoadShader(const char* vPath, const char* fPath);
 
-#endif /* shaderLoader_hpp */

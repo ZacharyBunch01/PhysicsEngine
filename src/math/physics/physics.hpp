@@ -1,10 +1,9 @@
-//std
-#ifndef PHYSICS_HPP
-#define PHYSICS_HPP
-
 #include <vector>
 #include "rigidbody.hpp"
 #include "../../scene.hpp"
+
+// Pragma
+#pragma once
 
 class PhysicsEngine
 {
@@ -17,4 +16,3 @@ private:
     void ResolveCollision(RigidBody& bodyA, RigidBody& bodyB);
 };
 
-#endif /* PHYSICS_HPP */

@@ -1,6 +1,3 @@
-#ifndef matrices_hpp
-#define matrices_hpp
-
 //std
 #include <stdio.h>
 #include <iostream>
@@ -39,4 +36,3 @@ glm::mat4 CheckMatrices(Object &object);
 // Return the value to the model matrix
 glm::mat4 CheckMatrices_Collider(Collider &collider);
 
-#endif /* matrices_hpp */

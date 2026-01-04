@@ -1,12 +1,12 @@
-#ifndef light_hpp
-#define light_hpp
-
-//GLEW
+// GLEW
 #include <GL/glew.h>
 #define GLEW_STATIC
 
-//GLM
+// GLM
 #include <GLM/glm/glm.hpp>
+
+// Pragma
+#pragma once
 
 // My light class.
 class Light
@@ -43,4 +43,3 @@ private:
 	void setUniforms();
 };
 
-#endif /* lights_hpp */

@@ -1,8 +1,3 @@
-#ifndef checkCollision_hpp
-#define checkCollision_hpp
-
-// This code is only useful for non-physics box colliders.
-
 //Project Files
 #include "object.hpp"
 
@@ -27,4 +22,3 @@ bool Check_Collision(Object& one, Object& two)
     return false;
 }
 
-#endif

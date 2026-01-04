@@ -1,8 +1,8 @@
-#ifndef object_hpp
-#define object_hpp
-
 //Project files
 #include "math/physics/rigidBody.hpp"
+
+// Pragma
+#pragma once
 
 struct Object
 {
@@ -51,4 +51,3 @@ private:
     float radius = 0.0f;
 };
 
-#endif /* object_hpp */

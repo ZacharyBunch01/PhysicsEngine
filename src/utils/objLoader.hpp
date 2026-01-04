@@ -1,6 +1,3 @@
-#ifndef objLoader_hpp
-#define objLoader_hpp
-
 //std
 #include <stdio.h>
 #include <iostream>
@@ -30,4 +27,3 @@
 // Can only import models with triangles rather than quads, requires UV, requires normals, keep vertex order is always good.
 bool LoadOBJ(const char* modelPath, std::vector <glm::vec3>& outVertices, std::vector <glm::vec2>& outTextureCoords, std::vector <glm::vec3>& outNormals);
 
-#endif /* objLoader_hpp */
