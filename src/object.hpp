@@ -1,5 +1,5 @@
 //Project files
-#include "math/physics/rigidBody.hpp"
+#include "math/physics/rigidbody.hpp"
 
 // Pragma
 #pragma once

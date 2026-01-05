@@ -1130,7 +1130,7 @@ CMakeFiles/PhysicsEngine.dir/src/math/matrices.cpp.o: \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtx/../gtx/../geometric.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtx/string_cast.inl \
   /Users/zacharybunch/PhysicsEngine/src/math/../object.hpp \
-  /Users/zacharybunch/PhysicsEngine/src/math/../math/physics/rigidBody.hpp \
+  /Users/zacharybunch/PhysicsEngine/src/math/../math/physics/rigidbody.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/glm.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \

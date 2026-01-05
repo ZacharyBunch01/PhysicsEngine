@@ -1,7 +1,7 @@
 CMakeFiles/PhysicsEngine.dir/src/object.cpp.o: \
   /Users/zacharybunch/PhysicsEngine/src/object.cpp \
   /Users/zacharybunch/PhysicsEngine/src/object.hpp \
-  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidBody.hpp \
+  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidbody.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/glm.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_fixes.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath \

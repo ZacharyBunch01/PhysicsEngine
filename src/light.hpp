@@ -12,7 +12,7 @@
 class Light
 {
 public:
-	Light(glm::vec3 Position, glm::vec3 colorIn, int strengthIn, glm::vec3 directionIn);
+	Light(glm::vec3 Position = glm::vec3(0.0f, 10.0f, 0.0f), glm::vec3 colorIn = glm::vec3(1.0f), int strengthIn = 1, glm::vec3 directionIn = glm::vec3(0.0f, -10.0f, 0.0f));
 
 	void render();
 

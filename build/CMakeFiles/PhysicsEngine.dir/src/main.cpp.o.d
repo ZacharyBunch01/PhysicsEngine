@@ -1025,7 +1025,7 @@ CMakeFiles/PhysicsEngine.dir/src/main.cpp.o: \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_integer.inl \
   /Users/zacharybunch/PhysicsEngine/src/scene.hpp \
   /Users/zacharybunch/PhysicsEngine/src/object.hpp \
-  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidBody.hpp \
+  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidbody.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/../gtc/constants.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/../gtc/../ext/scalar_constants.hpp \
@@ -1169,5 +1169,4 @@ CMakeFiles/PhysicsEngine.dir/src/main.cpp.o: \
   /Users/zacharybunch/PhysicsEngine/src/graphics/gui.hpp \
   /Users/zacharybunch/PhysicsEngine/src/graphics/../window/window.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/physics/physics.hpp \
-  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidbody.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/physics/../../scene.hpp

@@ -1078,7 +1078,7 @@ CMakeFiles/PhysicsEngine.dir/src/math/physics/physics.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/unistd.h \
   /Users/zacharybunch/PhysicsEngine/src/math/physics/../../scene.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/physics/../../object.hpp \
-  /Users/zacharybunch/PhysicsEngine/src/math/physics/../../math/physics/rigidBody.hpp \
+  /Users/zacharybunch/PhysicsEngine/src/math/physics/../../math/physics/rigidbody.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/physics/../../light.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GL/glew.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h \
