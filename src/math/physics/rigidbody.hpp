@@ -1,7 +1,7 @@
 // GLM
-#include <glm/glm/glm.hpp>
-#include <glm/glm/gtc/quaternion.hpp>
-#include <glm/glm/common.hpp>
+#include <GLM/glm/glm.hpp>
+#include <GLM/glm/gtc/quaternion.hpp>
+#include <GLM/glm/common.hpp>
 
 // Project Files
 #include "collider.hpp"

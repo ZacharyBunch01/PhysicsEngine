@@ -4,7 +4,7 @@ float MaxFunction(glm::vec3& vec)
 {
 	float result = vec[0];
 
-	for (int i = 0; i < sizeof(glm::vec3); i++)
+	for (int i = 0; i < 3; i++)
 	{
 		if (vec[i] > result)
 			result = vec[i];
@@ -17,7 +17,7 @@ glm::vec3 MaxFunction2(glm::vec3& vec, glm::vec3& vec2)
 {
 	glm::vec3 result;
 
-	for (int i = 0; i < sizeof(glm::vec3); i++)
+	for (int i = 0; i < 3; i++)
 	{
 		result[i] = vec[i] > vec2[i] ? vec[i] : vec2[i];
 	}

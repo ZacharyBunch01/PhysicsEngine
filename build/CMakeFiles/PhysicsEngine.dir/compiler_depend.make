@@ -5098,7 +5098,91 @@ CMakeFiles/PhysicsEngine.dir/src/main.cpp.o: /Users/zacharybunch/PhysicsEngine/s
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/fwd.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/glm.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_float.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_quat.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_quat.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_double.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_double_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_float.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_float_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_trigonometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_clip_space.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_clip_space.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_projection.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_projection.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/epsilon.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/epsilon.inl \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.inl \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/glm.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x2.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x3.hpp \
@@ -5167,93 +5251,6 @@ CMakeFiles/PhysicsEngine.dir/src/main.cpp.o: /Users/zacharybunch/PhysicsEngine/s
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/glm.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_float.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_quat.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_quat.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_double.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_double_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_float.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_float_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_trigonometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_clip_space.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_clip_space.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_projection.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_projection.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/epsilon.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/epsilon.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.inl \
   /Users/zacharybunch/PhysicsEngine/imgui/imconfig.h \
   /Users/zacharybunch/PhysicsEngine/imgui/imgui.h \
   /Users/zacharybunch/PhysicsEngine/imgui/imgui_impl_glfw.h \
@@ -7156,6 +7153,7 @@ CMakeFiles/PhysicsEngine.dir/src/math/matrices.cpp.o: /Users/zacharybunch/Physic
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GL/glew.h \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLFW/glfw3.h \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/glm.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
@@ -7481,9 +7479,6 @@ CMakeFiles/PhysicsEngine.dir/src/math/matrices.cpp.o: /Users/zacharybunch/Physic
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtx/string_cast.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtx/string_cast.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/glm.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidBody.hpp \
   /Users/zacharybunch/PhysicsEngine/src/object.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/collider.hpp \
@@ -8294,282 +8289,280 @@ CMakeFiles/PhysicsEngine.dir/src/math/physics/physics.cpp.o: /Users/zacharybunch
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GL/glew.h \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_vectorize.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_exponential.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_vector_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec1.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_fixes.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_vectorize.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_common.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_geometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec1.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec1.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x3.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x4.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x2.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x4.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x2.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x3.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_matrix.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_vectorize.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_decl.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x2.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_int_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_uint_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int2_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int3_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int4_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint2_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint3_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint4_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/simd/platform.h \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_fixes.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_vectorize.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_integer.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_packing.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_trigonometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_half.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_half.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/fwd.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/glm.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_float.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_quat.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_quat.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_double.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_double_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_float.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_float_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_trigonometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_clip_space.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_clip_space.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_projection.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_projection.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/epsilon.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/epsilon.inl \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_exponential.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_vector_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec1.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_fixes.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_common.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_geometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec1.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec1.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x3.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x4.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x2.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x4.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x2.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x3.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_matrix.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_decl.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x2.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_int_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_uint_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int2_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int3_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int4_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint2_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint3_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint4_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/simd/platform.h \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_fixes.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_integer.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_packing.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_trigonometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_half.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_half.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/fwd.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/glm.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_float.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_quat.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_quat.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_double.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_double_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_float.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_float_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_trigonometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_clip_space.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_clip_space.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_projection.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_projection.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/epsilon.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/epsilon.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/integer.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/packing.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/integer.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/packing.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/collider.hpp \
   /Users/zacharybunch/PhysicsEngine/src/light.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidBody.hpp \
@@ -9378,282 +9371,280 @@ CMakeFiles/PhysicsEngine.dir/src/math/physics/rigidbody.cpp.o: /Users/zacharybun
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_vectorize.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_exponential.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_vector_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec1.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_fixes.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_vectorize.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_common.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_geometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec1.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec1.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x3.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x4.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x2.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x4.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x2.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x3.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_matrix.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_vectorize.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_decl.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x2.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_int_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_uint_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int2_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int3_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int4_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint2_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint3_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint4_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/simd/platform.h \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_fixes.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_vectorize.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_integer.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_packing.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_trigonometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_half.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_half.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/fwd.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/glm.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_float.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_quat.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_quat.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_double.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_double_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_float.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_float_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_trigonometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_clip_space.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_clip_space.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_projection.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_projection.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/epsilon.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/epsilon.inl \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_exponential.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_vector_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec1.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_fixes.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_common.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_geometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec1.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec1.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x3.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x4.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x2.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x4.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x2.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x3.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_matrix.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_decl.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x2.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_int_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_uint_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int2_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int3_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int4_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint2_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint3_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint4_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/simd/platform.h \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_fixes.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_integer.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_packing.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_trigonometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_half.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_half.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/fwd.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/glm.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_float.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_quat.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_quat.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_double.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_double_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_float.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_float_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_trigonometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_clip_space.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_clip_space.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_projection.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_projection.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/epsilon.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/epsilon.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/integer.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/packing.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/integer.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/packing.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/collider.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidbody.hpp
 
@@ -10463,12 +10454,251 @@ CMakeFiles/PhysicsEngine.dir/src/object.cpp.o: /Users/zacharybunch/PhysicsEngine
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GL/glew.h \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLFW/glfw3.h \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/glm.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_vectorize.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_exponential.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_vector_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec1.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_fixes.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_vectorize.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_common.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_geometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec1.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec1.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x3.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x4.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x2.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x4.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x2.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x3.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float4x4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_matrix.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_vectorize.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_decl.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x2.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_int_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_uint_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float2_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float3_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float4_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int2_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int3_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int4_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint2_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint3_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint4_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/simd/platform.h \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_fixes.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/_vectorize.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_integer.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_packing.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_trigonometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_half.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_half.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/fwd.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/glm.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_float.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_quat.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_quat.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_double.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_double_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_float.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_float_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_trigonometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec1.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_int_sized.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_uint_sized.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int1.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint1.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_clip_space.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_clip_space.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_projection.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_projection.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.inl \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool1.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool1_precision.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double1.hpp \
@@ -10479,6 +10709,17 @@ CMakeFiles/PhysicsEngine.dir/src/object.cpp.o: /Users/zacharybunch/PhysicsEngine
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int1_sized.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint1.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint1_sized.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.inl \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/vec1.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x2.hpp \
@@ -10490,11 +10731,16 @@ CMakeFiles/PhysicsEngine.dir/src/object.cpp.o: /Users/zacharybunch/PhysicsEngine
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x2.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x3.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec2.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/epsilon.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/epsilon.inl \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.inl \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/type_ptr.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/type_ptr.inl \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/glm.hpp \
@@ -10536,280 +10782,23 @@ CMakeFiles/PhysicsEngine.dir/src/object.cpp.o: /Users/zacharybunch/PhysicsEngine
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtx/string_cast.inl \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtx/transform.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtx/transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_exponential.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_vector_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec1.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_fixes.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_common.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_geometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec1.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec1.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x3.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x4.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x2.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x4.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x2.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x3.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_matrix.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_decl.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x2.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_int_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_uint_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float2_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float3_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float4_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int2_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int3_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int4_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint2_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint3_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint4_sized.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/simd/platform.h \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_fixes.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_integer.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_packing.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_trigonometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_half.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_half.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/fwd.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/glm.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_float.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_quat.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_quat.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_double.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_double_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_float.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_float_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_trigonometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_clip_space.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_clip_space.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_projection.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_projection.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/epsilon.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/epsilon.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/integer.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/packing.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/integer.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat3x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/packing.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
   /Users/zacharybunch/PhysicsEngine/src/object.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/collider.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/matrices.hpp \
@@ -11797,7 +11786,91 @@ CMakeFiles/PhysicsEngine.dir/src/scene.cpp.o: /Users/zacharybunch/PhysicsEngine/
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/fwd.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/glm.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat3x3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/qualifier.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_float.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_quat.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_quat.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/exponential.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_double.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_double_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_float.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_float_precision.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_trigonometric.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_relational.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_clip_space.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_clip_space.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_projection.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_projection.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/geometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/matrix.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec2.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/constants.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.inl \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/epsilon.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/epsilon.inl \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.hpp \
+  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.inl \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/glm.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x2.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x3.hpp \
@@ -11866,93 +11939,6 @@ CMakeFiles/PhysicsEngine.dir/src/scene.cpp.o: /Users/zacharybunch/PhysicsEngine/
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/glm.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_float.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_quat.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_quat.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_double.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_double_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_float.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_float_precision.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_trigonometric.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_clip_space.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_clip_space.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_projection.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_projection.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec2.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec3.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec4.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/epsilon.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/epsilon.inl \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.inl \
   /Users/zacharybunch/PhysicsEngine/imgui/imconfig.h \
   /Users/zacharybunch/PhysicsEngine/imgui/imgui.h \
   /Users/zacharybunch/PhysicsEngine/imgui/imgui_impl_glfw.h \
@@ -16066,9 +16052,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/controls.cpp.o: /Users/zacharybunch/Phys
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec3.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vec4.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/glm.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.hpp \
   /Users/zacharybunch/PhysicsEngine/imgui/imconfig.h \
   /Users/zacharybunch/PhysicsEngine/imgui/imgui.h \
   /Users/zacharybunch/PhysicsEngine/imgui/imgui_impl_glfw.h \
@@ -16905,114 +16888,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Users/zacharybunch/PhysicsEngine/src/object.cpp:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_integer.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/simd/platform.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint4_sized.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint2_sized.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int3_sized.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int2_sized.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float3_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float2_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double2_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool3_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double4.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint4.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int2.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_uint_sized.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_int_sized.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x2.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x3.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x2.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x3.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x2.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_matrix.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x2_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x2.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x4.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x3_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x2_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x2.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x4_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x4_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x4.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x3.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x2_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x2.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x4_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x2_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x4.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x3.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x3.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x3.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x2.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x2.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x4.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x3.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x2.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_geometric.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_common.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_relational.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec2.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec1.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x4.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_vector_relational.inl:
-
 /Users/zacharybunch/PhysicsEngine/src/math/physics/physics.cpp:
 
 /Users/zacharybunch/PhysicsEngine/src/math/collider.cpp:
@@ -17028,76 +16903,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidBody.hpp:
 
 /Users/zacharybunch/PhysicsEngine/src/math/physics/physics.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/epsilon.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool2.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec4.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec3.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_transform.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_transform.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_projection.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_projection.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_clip_space.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_clip_space.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/matrix.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_trigonometric.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_trigonometric.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_transform.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_float_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_float.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_double_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_double.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/geometric.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_quat.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_float.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/trigonometric.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_common.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/exponential.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x3.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x2.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/qualifier.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x3.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/sstream:
 
@@ -17165,8 +16970,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_double_precision.hpp:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.inl:
-
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_double.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_common.inl:
@@ -17182,8 +16985,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_float.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/trigonometric.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_transform.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/matrix_transform.hpp:
 
@@ -17211,13 +17012,9 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint2_sized.hpp:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_fixes.hpp:
-
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_trigonometric.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int3_sized.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int3.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_int2_sized.hpp:
 
@@ -17231,8 +17028,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double4.hpp:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x2.inl:
-
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double3.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_double2_precision.hpp:
@@ -17241,15 +17036,11 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool4.hpp:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.inl:
-
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_bool3_precision.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double2x2.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint4.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool3.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint3.hpp:
 
@@ -17271,8 +17062,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec3.inl:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float4_precision.hpp:
-
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x2.inl:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/compute_vector_decl.hpp:
@@ -17285,8 +17074,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x3.hpp:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat4x4.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/file_time_type.h:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat4x2.hpp:
@@ -17298,8 +17085,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x4.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x3.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x4.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/mat2x2.hpp:
 
@@ -17323,8 +17108,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x3.hpp:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x3.hpp:
-
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x2_precision.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double4x2.hpp:
@@ -17346,8 +17129,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/quaternion_geometric.inl:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x3.inl:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x4.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat4x3.hpp:
 
@@ -17371,8 +17152,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec1.inl:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float3x4_precision.hpp:
-
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/func_common.inl:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_double3x2_precision.hpp:
@@ -17388,8 +17167,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec2.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_vec1.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/matrix_transform.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/setup.hpp:
 
@@ -17418,8 +17195,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_short.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool4.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_char.h:
 
@@ -17479,8 +17254,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdarg:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat4x4.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bitset:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/detail/type_mat2x3.inl:
@@ -17521,8 +17294,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ostream/put_character_sequence.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/_vectorize.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ostream/basic_ostream.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__node_handle:
@@ -17530,8 +17301,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__debug_utils/strict_weak_ordering_check.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/once_flag.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x3.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/mutex.h:
 
@@ -17609,13 +17378,9 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/time.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat2x4.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_const_ref.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_timespec.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec1.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ostream:
 
@@ -17655,8 +17420,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iterator:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_half.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/exception:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdlib:
@@ -17679,8 +17442,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bit:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float2.hpp:
-
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_float3_precision.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/streambuf:
@@ -17690,8 +17451,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/type_precision.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/unreachable.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/setup.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_signed.h:
 
@@ -17739,8 +17498,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/deque:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool2_precision.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_valid_expansion.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binary_function.h:
@@ -17774,8 +17531,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/datasizeof.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/copy_cvref.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x2_precision.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/file_clock.h:
 
@@ -17833,15 +17588,11 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/log2.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_bool4_precision.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/is_valid.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_printf.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/partial_sum.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double2.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/nothrow_t.h:
 
@@ -17872,8 +17623,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory_resource/polymorphic_allocator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/uses_allocator.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/stack.h:
 
@@ -17913,21 +17662,15 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_destructor.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int4.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/swap_allocator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocation_guard.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/integer.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_strings.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocate_at_least.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_packing.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/addressof.h:
 
@@ -17997,8 +17740,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/distance.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x3.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/default_sentinel.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/mem_fn.h:
@@ -18040,8 +17781,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/string.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstring:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_geometric.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h:
 
@@ -18099,8 +17838,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/nested_exception.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x2_precision.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/exception_ptr.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__debug_utils/sanitizers.h:
@@ -18131,8 +17868,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/regular.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/mat3x2.hpp:
-
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/scalar_constants.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_locale_posix2008.h:
@@ -18157,13 +17892,9 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/synth_three_way.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x4.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/limits.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/mutex:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x4_precision.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/compare_three_way_result.h:
 
@@ -18193,8 +17924,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/blsr.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double4x3_precision.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/limits.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/bit_log2.h:
@@ -18217,8 +17946,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/function.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_common.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic_init.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic.h:
@@ -18230,8 +17957,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/common_type.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x2.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/file_status.h:
 
@@ -18251,8 +17976,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double2x3_precision.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_null_pointer.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/type_traits:
@@ -18264,8 +17987,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cwchar:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/sort_heap.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vec2.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/errc.h:
 
@@ -18317,11 +18038,7 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/unordered_map:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/scalar_constants.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/partial_sort_copy.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint2.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/none_of.h:
 
@@ -18358,8 +18075,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/replace_copy.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/unary_function.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/fwd.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float3x2.hpp:
 
@@ -18399,8 +18114,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stdarg___gnuc_va_list.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_trigonometric.inl:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/copy_n.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/copy_move_common.h:
@@ -18425,8 +18138,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/inplace_merge.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/func_exponential.inl:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__variant/monostate.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/all_of.h:
@@ -18434,8 +18145,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_destructible.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_wctype.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/nat.h:
 
@@ -18454,8 +18163,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/make_const_lvalue_ref.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_wctrans_t.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/epsilon.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h:
 
@@ -18519,8 +18226,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/locale:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x4.hpp:
-
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/vector_uint1.hpp:
 
 /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/ext/matrix_float2x2_precision.hpp:
@@ -18528,8 +18233,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_rsize_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_xlocale.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/constants.hpp:
 
 /Users/zacharybunch/PhysicsEngine/imgui/imstb_truetype.h:
 
@@ -18546,8 +18249,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/time_point.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/type_identity.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/vector.h:
 
@@ -18566,8 +18267,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/prev.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_quat.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_mode_t.h:
 
@@ -18610,8 +18309,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int32_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/sift_down.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x4.inl:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_null.h:
 
@@ -18727,8 +18424,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Users/zacharybunch/PhysicsEngine/src/window/controls.cpp:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x2.inl:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/terminate.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/_endian.h:
@@ -18743,8 +18438,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int8_t.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float3.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/disjunction.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl.h:
@@ -18755,11 +18448,7 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_errno_t.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x3_precision.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_size_t.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x3.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config:
 
@@ -18851,21 +18540,15 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/underlying_type.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec4.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/utility:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/type_list.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double4_precision.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/optional:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_setsize.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic_flag.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float2x2.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iter_move.h:
 
@@ -18957,8 +18640,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_const.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_float4.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivial.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/global_new_delete.h:
@@ -18973,13 +18654,9 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_void.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint3.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_time_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_nothrow_constructible.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_double3x3_precision.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_reference.h:
 
@@ -19051,15 +18728,9 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/align.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/glm.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_fundamental.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double3_precision.hpp:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_relational.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/forward_like.h:
 
@@ -19072,8 +18743,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/_limits.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_abstract.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_double3.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/generate.h:
 
@@ -19125,8 +18794,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_convertible.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat2x3.inl:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/allocate.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/negation.h:
@@ -19143,11 +18810,7 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_function.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_vec3.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/locale_base_api.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/compute_vector_decl.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/hyperbolic_functions.h:
 
@@ -19164,8 +18827,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sched.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_int4_sized.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/remainder.h:
 
@@ -19191,8 +18852,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/remove_copy_if.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/packing.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/move.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/limits:
@@ -19211,8 +18870,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic_lock_free.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/vector_relational.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/gamma.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stdarg_va_arg.h:
@@ -19224,8 +18881,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/equal.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/high_resolution_clock.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_half.inl:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_ptrdiff_t.h:
 
@@ -19254,8 +18909,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_pointer.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_copyable.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x3_precision.hpp:
 
 /Users/zacharybunch/PhysicsEngine/imgui/imgui.cpp:
 
@@ -19289,8 +18942,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/no_destroy.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/detail/type_mat3x4.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uint16_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_dev_t.h:
@@ -19321,11 +18972,7 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/_endian.h:
 
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/vector_uint3_sized.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/ordering.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/matrix_float4x4_precision.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_sorted_until.h:
 
@@ -19358,8 +19005,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/copy_cv.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unwrap_iter.h:
-
-/Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/ext/quaternion_relational.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/traits.h:
 

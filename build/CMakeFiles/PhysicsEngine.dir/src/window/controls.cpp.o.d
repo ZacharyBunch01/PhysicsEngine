@@ -1140,9 +1140,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/controls.cpp.o: \
   /Users/zacharybunch/PhysicsEngine/src/window/keyCode.h \
   /Users/zacharybunch/PhysicsEngine/src/window/../object.hpp \
   /Users/zacharybunch/PhysicsEngine/src/window/../math/physics/rigidBody.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/glm.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/gtc/quaternion.hpp \
-  /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/glm/glm/common.hpp \
-  /Users/zacharybunch/PhysicsEngine/src/math/collider.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtc/quaternion.hpp \
+  /Users/zacharybunch/PhysicsEngine/src/math/collider.hpp \
   /Users/zacharybunch/PhysicsEngine/src/window/../player.hpp

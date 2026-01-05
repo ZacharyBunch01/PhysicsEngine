@@ -1,5 +1,5 @@
 #include "physics.hpp"
-#include <glm/glm/glm.hpp>
+#include <GLM/glm/glm.hpp>
 #include <algorithm> // For std::max
 
 void PhysicsEngine::Simulate(float delta, Scene& scene)
