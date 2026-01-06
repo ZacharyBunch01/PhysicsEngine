@@ -9,7 +9,7 @@
 // Pragma
 #pragma once
 
-enum PhysicsID { BOX, SPHERE, PLANE, NULLBODY };
+enum class PhysicsID { BOX, SPHERE, PLANE, NULLBODY };
 
 class RigidBody
 {

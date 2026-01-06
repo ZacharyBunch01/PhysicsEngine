@@ -7,7 +7,7 @@
 struct Object
 {
 public:
-    Object(const char* modelPath, PhysicsID in);
+    Object(const char* modelPath, PhysicsID in = PhysicsID::BOX);
     Object(const char* modelPath, PhysicsID in, float inRadius);
 
     const char* modelFile;
@@ -22,7 +22,7 @@ public:
     glm::vec3 Force = glm::vec3(0.0f);
 
     //Collider collider;
-    RigidBody rigidBody = RigidBody(BOX, glm::vec3(0.0f), glm::vec3(0.0f), 0.0f);
+    RigidBody rigidBody = RigidBody(PhysicsID::BOX, glm::vec3(0.0f), glm::vec3(0.0f), 0.0f);
 
     std::vector <glm::vec3> vertices;
     std::vector <glm::vec2> textureCoords;
@@ -41,7 +41,7 @@ private:
     unsigned int normalBuffer;
     unsigned int textureBuffer;
 
-    int physicsID;
+    PhysicsID physicsID;
 
     void InitPhysicsBody();
 

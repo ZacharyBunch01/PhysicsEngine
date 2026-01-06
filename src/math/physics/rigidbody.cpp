@@ -1,17 +1,17 @@
 #include "rigidbody.hpp"
 
 RigidBody::RigidBody(PhysicsID in, const glm::vec3& inPos, const glm::vec3& inVelocity, float inRadius)
-    : physicsID(in), position(inPos), velocity(inVelocity), radius(inRadius), collider(Collider::BOX_COLLIDER)
+    : physicsID(in), position(inPos), velocity(inVelocity), radius(inRadius), collider(ColliderID::BOX)
 {
     switch (in)
     {
-    case BOX:
+    case PhysicsID::BOX:
         InitBoxCollider();
         break;
-    case PLANE:
+    case PhysicsID::PLANE:
         InitPlaneCollider();
         break;
-    case SPHERE:
+    case PhysicsID::SPHERE:
         InitSphereCollider();
         break;
     default:
@@ -39,15 +39,15 @@ void RigidBody::SetVelocity(const glm::vec3& vel)
 
 void RigidBody::InitBoxCollider()
 {
-    this->collider = Collider(Collider::BOX_COLLIDER);
+    this->collider = Collider(ColliderID::BOX);
 }
 
 void RigidBody::InitPlaneCollider()
 {
-    this->collider = Collider(Collider::PLANE_COLLIDER);
+    this->collider = Collider(ColliderID::PLANE);
 }
 
 void RigidBody::InitSphereCollider()
 {
-    this->collider = Collider(Collider::SPHERE_COLLIDER);
+    this->collider = Collider(ColliderID::SPHERE);
 }

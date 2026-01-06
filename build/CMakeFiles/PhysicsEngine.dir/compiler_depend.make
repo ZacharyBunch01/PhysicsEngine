@@ -5262,7 +5262,6 @@ CMakeFiles/PhysicsEngine.dir/src/main.cpp.o: /Users/zacharybunch/PhysicsEngine/s
   /Users/zacharybunch/PhysicsEngine/src/math/collider.hpp \
   /Users/zacharybunch/PhysicsEngine/src/scene.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/physics/physics.hpp \
-  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidBody.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidbody.hpp \
   /Users/zacharybunch/PhysicsEngine/src/object.hpp \
   /Users/zacharybunch/PhysicsEngine/src/player.hpp \
@@ -7479,7 +7478,7 @@ CMakeFiles/PhysicsEngine.dir/src/math/matrices.cpp.o: /Users/zacharybunch/Physic
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtx/string_cast.hpp \
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/gtx/string_cast.inl \
-  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidBody.hpp \
+  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidbody.hpp \
   /Users/zacharybunch/PhysicsEngine/src/object.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/collider.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/matrices.hpp
@@ -8565,7 +8564,7 @@ CMakeFiles/PhysicsEngine.dir/src/math/physics/physics.cpp.o: /Users/zacharybunch
   /Users/zacharybunch/PhysicsEngine/OpenGL-Root/include/GLM/glm/vector_relational.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/collider.hpp \
   /Users/zacharybunch/PhysicsEngine/src/light.hpp \
-  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidBody.hpp \
+  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidbody.hpp \
   /Users/zacharybunch/PhysicsEngine/src/object.hpp \
   /Users/zacharybunch/PhysicsEngine/src/scene.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/physics/physics.hpp \
@@ -10802,7 +10801,7 @@ CMakeFiles/PhysicsEngine.dir/src/object.cpp.o: /Users/zacharybunch/PhysicsEngine
   /Users/zacharybunch/PhysicsEngine/src/object.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/collider.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/matrices.hpp \
-  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidBody.hpp \
+  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidbody.hpp \
   /Users/zacharybunch/PhysicsEngine/src/object.hpp \
   /Users/zacharybunch/PhysicsEngine/src/player.hpp \
   /Users/zacharybunch/PhysicsEngine/src/utils/objLoader.hpp
@@ -11948,7 +11947,7 @@ CMakeFiles/PhysicsEngine.dir/src/scene.cpp.o: /Users/zacharybunch/PhysicsEngine/
   /Users/zacharybunch/PhysicsEngine/src/object.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/collider.hpp \
   /Users/zacharybunch/PhysicsEngine/src/math/matrices.hpp \
-  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidBody.hpp \
+  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidbody.hpp \
   /Users/zacharybunch/PhysicsEngine/src/object.hpp \
   /Users/zacharybunch/PhysicsEngine/src/scene.hpp \
   /Users/zacharybunch/PhysicsEngine/src/window/window.hpp
@@ -16058,7 +16057,7 @@ CMakeFiles/PhysicsEngine.dir/src/window/controls.cpp.o: /Users/zacharybunch/Phys
   /Users/zacharybunch/PhysicsEngine/imgui/imgui_impl_opengl3.h \
   /Users/zacharybunch/PhysicsEngine/imgui/imgui_stdlib.h \
   /Users/zacharybunch/PhysicsEngine/src/math/collider.hpp \
-  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidBody.hpp \
+  /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidbody.hpp \
   /Users/zacharybunch/PhysicsEngine/src/object.hpp \
   /Users/zacharybunch/PhysicsEngine/src/player.hpp \
   /Users/zacharybunch/PhysicsEngine/src/window/controls.hpp \
@@ -16899,8 +16898,6 @@ CMakeFiles/PhysicsEngine.dir/src/window/window.cpp.o: /Users/zacharybunch/Physic
 /Users/zacharybunch/PhysicsEngine/src/player.hpp:
 
 /Users/zacharybunch/PhysicsEngine/src/math/physics/rigidbody.hpp:
-
-/Users/zacharybunch/PhysicsEngine/src/math/physics/rigidBody.hpp:
 
 /Users/zacharybunch/PhysicsEngine/src/math/physics/physics.hpp:
 

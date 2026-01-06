@@ -35,18 +35,18 @@ Object::Object(const char *modelPath, PhysicsID id) : modelFile(modelPath), phys
     InitPhysicsBody();
     rigidBody.InitRigidBody(Position, Velocity);
 
-    if (id == BOX)
+    if (id == PhysicsID::BOX)
     {
-        rigidBody = RigidBody(BOX, Position, Velocity, 0.0f);
+        rigidBody = RigidBody(PhysicsID::BOX, Position, Velocity, 0.0f);
     }
-    else if (id == PLANE)
+    else if (id == PhysicsID::PLANE)
     {
-        rigidBody = RigidBody(PLANE, Position, Velocity, 0.0f);
+        rigidBody = RigidBody(PhysicsID::PLANE, Position, Velocity, 0.0f);
     }
-    else if (id == SPHERE)
+    else if (id == PhysicsID::SPHERE)
     {
         radius = 1.0f;
-        rigidBody = RigidBody(SPHERE, Position, Velocity, radius);
+        rigidBody = RigidBody(PhysicsID::SPHERE, Position, Velocity, radius);
     }
 }
 
@@ -74,18 +74,18 @@ Object::Object(const char* modelPath, PhysicsID id, float inRadius) : modelFile(
     InitPhysicsBody();
     rigidBody.InitRigidBody(Position, Velocity);
 
-    if (id == BOX)
+    if (id == PhysicsID::BOX)
     {
-        rigidBody = RigidBody(BOX, Position, Velocity, 0.0f);
+        rigidBody = RigidBody(PhysicsID::BOX, Position, Velocity, 0.0f);
     }
-    else if (id == PLANE)
+    else if (id == PhysicsID::PLANE)
     {
-        rigidBody = RigidBody(PLANE, Position, Velocity, 0.0f);
+        rigidBody = RigidBody(PhysicsID::PLANE, Position, Velocity, 0.0f);
     }
-    else if (id == SPHERE)
+    else if (id == PhysicsID::SPHERE)
     {
         radius = 1.0f;
-        rigidBody = RigidBody(SPHERE, Position, Velocity, radius);
+        rigidBody = RigidBody(PhysicsID::SPHERE, Position, Velocity, radius);
     }
 }
 
@@ -142,19 +142,19 @@ void Object::InitPhysicsBody()
 {
     switch (this->physicsID)
     {
-    case(BOX):
+    case(PhysicsID::BOX):
 
 
         break;
-    case(SPHERE):
+    case(PhysicsID::SPHERE):
 
 
         break;
-    case(PLANE):
+    case(PhysicsID::PLANE):
 
 
         break;
-    case(NULLBODY):
+    case(PhysicsID::NULLBODY):
 
 
         break;

@@ -1,5 +1,9 @@
 #include "collider.hpp"
 
+void Collider::SetType(ColliderID inType) {
+	this->type = inType;
+}
+
 float MaxFunction(glm::vec3& vec)
 {
 	float result = vec[0];
@@ -31,14 +35,14 @@ void Collider::MoveCollider(glm::vec3 inPos)
 
 	switch (this->type)
 	{
-	case(BOX_COLLIDER):
+	case(ColliderID::BOX):
 
 		break;
-	case(PLANE_COLLIDER):
+	case(ColliderID::PLANE):
 		
 
 		break;
-	case(SPHERE_COLLIDER):
+	case(ColliderID::SPHERE):
 		  
 
 		break;
@@ -54,30 +58,30 @@ CollisionData Collider::Collision(const Collider& other) const
 	// This is really terrible, I'm so sorry.
 	switch (type)
 	{
-	case(BOX_COLLIDER):
+	case(ColliderID::BOX):
 
 		switch (other.GetType())
 		{
-		case(BOX_COLLIDER):
+		case(ColliderID::BOX):
 
 			break;
 
-		case(SPHERE_COLLIDER):
+		case(ColliderID::SPHERE):
 
 			break;
 
-		case(PLANE_COLLIDER):
+		case(ColliderID::PLANE):
 
 			break;
 		}
 
 		break;
 
-	case(SPHERE_COLLIDER):
+	case(ColliderID::SPHERE):
 
 		switch (other.GetType())
 		{
-		case(BOX_COLLIDER):
+		case(ColliderID::BOX):
 
 			/*
 			CollisionData collisionData = scene.GetObject(i)->GetBoundingSphere().CollisionBoundingBox(scene.GetObject(i)->GetBoundingBox());
@@ -91,33 +95,33 @@ CollisionData Collider::Collision(const Collider& other) const
 
 			break;
 
-		case(SPHERE_COLLIDER):
+		case(ColliderID::SPHERE):
 
 			sphere = (BoundingSphere*)this;
 			return sphere->CollisionBoundingSphere((BoundingSphere&)other);
 
 			break;
 
-		case(PLANE_COLLIDER):
+		case(ColliderID::PLANE):
 
 			break;
 		}
 
 		break;
 
-	case(PLANE_COLLIDER):
+	case(ColliderID::PLANE):
 
 		switch (other.GetType())
 		{
-		case(BOX_COLLIDER):
+		case(ColliderID::BOX):
 
 			break;
 
-		case(SPHERE_COLLIDER):
+		case(ColliderID::SPHERE):
 
 			break;
 
-		case(PLANE_COLLIDER):
+		case(ColliderID::PLANE):
 
 			break;
 		}

@@ -10,6 +10,8 @@
 //Pragma
 #pragma once
 
+enum class ColliderID { BOX, SPHERE, PLANE, NULLBODY };
+
 class CollisionData
 {
 public:
@@ -45,16 +47,8 @@ public:
 	glm::vec3 Scale = glm::vec3(1.0f);
 	glm::quat Orientation = glm::quat(0.0f, 0.0f, 0.0f, 0.0f);
 
-	enum 
-	{
-		BOX_COLLIDER,
-		SPHERE_COLLIDER,
-		PLANE_COLLIDER,
-	};
-
-	Collider(int inType) : type(inType)
-	{
-
+	Collider(ColliderID inType) : type(inType) {
+	
 	}
 
 	CollisionData Collision(const Collider& other) const;
@@ -63,19 +57,21 @@ public:
 
 	void MoveCollider(glm::vec3 inPos);
 
-	inline int GetType() const 
+	inline ColliderID GetType() const 
 	{
 		return type;
 	}
 
+	void SetType(ColliderID inType);
+
 private:
-	int type;
+	ColliderID type;
 };
 
 class BoundingBox : public Collider
 {
 public:
-	BoundingBox(const glm::vec3& inMinExtents, const glm::vec3& inMaxExtents) : Collider(Collider::BOX_COLLIDER), minExtents(inMinExtents), maxExtents(inMaxExtents)
+	BoundingBox(const glm::vec3& inMinExtents, const glm::vec3& inMaxExtents) : Collider(ColliderID::BOX), minExtents(inMinExtents), maxExtents(inMaxExtents)
 	{
 
 	}
@@ -100,7 +96,7 @@ private:
 class BoundingPlane : public Collider
 {
 public:
-	BoundingPlane(const glm::vec3& inNormal, const float& inDistance) : Collider(Collider::PLANE_COLLIDER), normal(inNormal), distance(inDistance)
+	BoundingPlane(const glm::vec3& inNormal, const float& inDistance) : Collider(ColliderID::PLANE), normal(inNormal), distance(inDistance)
 	{
 
 	}
@@ -127,7 +123,7 @@ private:
 class BoundingSphere : public Collider
 {
 public:
-	BoundingSphere(const glm::vec3& inCenter, float inRadius) : Collider(SPHERE_COLLIDER), center(inCenter), radius(inRadius)
+	BoundingSphere(const glm::vec3& inCenter, float inRadius) : Collider(ColliderID::SPHERE), center(inCenter), radius(inRadius)
 	{
 		
 	}
