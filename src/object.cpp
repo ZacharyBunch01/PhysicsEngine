@@ -50,6 +50,7 @@ Object::Object(const char *modelPath, PhysicsID id) : modelFile(modelPath), phys
     }
 }
 
+// Object constructor
 Object::Object(const char* modelPath, PhysicsID id, float inRadius) : modelFile(modelPath), physicsID(id), radius(inRadius)
 {
     LoadOBJ(modelPath, vertices, textureCoords, normals);
