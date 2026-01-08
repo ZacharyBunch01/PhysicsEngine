@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Vim swap/backup files
+*.swp
+*.swo
+*.swm
+*.swn
+.*.swp
+.*.swo
+.*.swm
+.*.swn
