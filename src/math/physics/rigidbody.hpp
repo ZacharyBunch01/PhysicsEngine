@@ -23,7 +23,7 @@ public:
 
     glm::vec3 position = glm::vec3(0.0f);
     glm::vec3 velocity = glm::vec3(0.0f);
-    float radius = 0.0f;
+    float radius = 1.0f;
     float mass = 1.0f; // Default mass
     float restitution = 0.5f; // Default restitution (elasticity)
 

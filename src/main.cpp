@@ -24,7 +24,8 @@ Scene scene;
 
 PhysicsEngine physics;
 
-Object* cube = new Object{"../res/cube.obj", PhysicsID::BOX};
+Object* cube = new Object{"../res/cube.obj", PhysicsID::BOX, 0.5f};
+Object* cube2 = new Object("../res/cube.obj", PhysicsID::BOX, 0.5f);
 
 Object* floorObject = new Object{"../res/cube.obj", PhysicsID::BOX};
 
@@ -50,21 +51,29 @@ int main()
     cube->affectedByGravity = true;
     cube->rigidBody.InitRigidBody(cube->Position, cube->Velocity);
 
+    cube2->Position.y = 1.0f;
+    cube2->affectedByGravity = false;
+    cube2->Velocity.y = 15.0f;
+    cube2->rigidBody.InitRigidBody(cube2->Position, cube2->Velocity);
+
     floorObject->Position.y = 1.0f;
     floorObject->Scale.y *= 0.5f;
     floorObject->Scale.x *= 10.0f;
     floorObject->Scale.z *= 10.0f;
     floorObject->rigidBody.InitRigidBody(floorObject->Position, floorObject->Velocity);
     floorObject->affectedByGravity = false;
+    // floorObject->rigidBody.radius = 1.0f;
 
     scene.AddObject(std::unique_ptr<Object>(cube));
-    scene.AddObject(std::unique_ptr<Object>(floorObject));
+    scene.AddObject(std::unique_ptr<Object>(cube2));
+    // scene.AddObject(std::unique_ptr<Object>(floorObject));
     scene.AddLight(std::unique_ptr<Light>(light));
     //scene.RemoveLight(&light);
     //scene.AddLight(&light2);
 
-    cube->rigidBody.collider.SetType(ColliderID::SPHERE);
-    floorObject->rigidBody.collider.SetType(ColliderID::SPHERE);
+    cube->rigidBody.collider.SetType(ColliderID::BOX);
+    cube2->rigidBody.collider.SetType(ColliderID::BOX);
+    //floorObject->rigidBody.collider.SetType(ColliderID::SPHERE);
 
     while(glfwGetKey(window.getWindow(), GLFW_KEY_ESCAPE ) != GLFW_PRESS &&
            glfwWindowShouldClose(window.getWindow()) == 0 )
@@ -77,7 +86,6 @@ int main()
 
         scene.Update(deltaTime);
 	physics.Simulate(deltaTime, scene);
-	physics.HandleCollisions(scene);
 
         glm::mat4 MVPmat = projectionMat * viewMat;
 

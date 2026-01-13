@@ -24,7 +24,7 @@ void ComputeControls()
 {
     static double lastTime = glfwGetTime();
     double currentTime = glfwGetTime();
-    deltaTime = float(currentTime - lastTime); // Prevents movement from running at different speeds on different PCs.
+    deltaTime = float(currentTime - lastTime); // Prevents movement from running at different speeds on different FPSs.
 
     double xPos, yPos;
 

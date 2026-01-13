@@ -21,9 +21,9 @@ extern float deltaTime;
 
 Scene scene;
 
-Object cube("res/cube.obj", BOX, 1.0f);
+Object cube("res/cube.obj", BOX);
 
-Object floorObject("res/cube.obj", BOX, 1.0f);
+Object floorObject("res/cube.obj", BOX);
 
 Light light(glm::vec3(3.0f, 10.0f, 4.0f), glm::vec3(1.0f, 10.0f, 1.0f), 0.05f, glm::vec3(0.0f, 0.0f, 0.0f));
 Light light2(glm::vec3(-5.0f, 10.0f, -5.0f), glm::vec3(0.2f, 0.75f, 0.2f), 1.0f, glm::vec3(0.0f));
@@ -60,8 +60,8 @@ int main()
     //scene.RemoveLight(&light);
     //scene.AddLight(&light2);
 
-    cube.rigidBody.collider = SPHERE;
-    floorObject.rigidBody.collider = SPHERE;
+    cube.rigidBody.collider = BOX_COLLIDER;
+    floorObject.rigidBody.collider = BOX_COLLIDER;
 
     while(glfwGetKey(window.getWindow(), GLFW_KEY_ESCAPE ) != GLFW_PRESS &&
            glfwWindowShouldClose(window.getWindow()) == 0 )

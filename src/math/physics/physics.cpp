@@ -4,6 +4,8 @@
 
 void PhysicsEngine::Simulate(float delta, Scene& scene)
 {
+    HandleCollisions(scene);
+
     for (unsigned int i = 0; i < scene.GetNumOfObjects(); i++)
     {
         scene.GetObject(i)->rigidBody.Integrate(delta);
@@ -12,19 +14,26 @@ void PhysicsEngine::Simulate(float delta, Scene& scene)
 
 void PhysicsEngine::HandleCollisions(Scene& scene)
 {
+    // std::cout << "HandleCollisions is being called" << std::endl;
+
     // Broad Phase (skipped for simplicity in this example)
     // You should implement a broad phase to improve performance.
 
     // Narrow Phase and Resolution
-    for (int i = 0; i < scene.GetNumOfObjects(); i++)
+    for (int i = 0; i < scene.GetNumOfObjects(); ++i) 
     {
-        for (int j = i + 1; j < scene.GetNumOfObjects(); j++)
+        for (int j = 0; j < scene.GetNumOfObjects(); ++j)
         {
             auto objA = scene.GetObject(i);
             auto objB = scene.GetObject(j);
 
+	    if (objA == objB)
+	    	continue;
+
             if (CheckCollision(objA->rigidBody, objB->rigidBody))
             {
+		std::cout << "Collision!!!" << std::endl;
+
                 ResolveCollision(objA->rigidBody, objB->rigidBody);
             }
         }
