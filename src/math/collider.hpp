@@ -17,15 +17,15 @@ class CollisionData
 public:
 	CollisionData(const bool inDoesCollide, const float inDistance) : doesCollide(inDoesCollide), distance(inDistance)
 	{
-		
+
 	}
 
-	inline bool getDoesCollide() const 
+	inline bool getDoesCollide() const
 	{
 		return doesCollide;
 	}
 
-	inline float getDistance() const
+	inline float getDistance() const 
 	{
 		return distance;
 	}
@@ -48,8 +48,13 @@ public:
 	glm::quat Orientation = glm::quat(0.0f, 0.0f, 0.0f, 0.0f);
 
 	Collider(ColliderID inType) : type(inType) {
-	
+		switch(inType) {
+			
+
+		}	
 	}
+
+	virtual ~Collider() = default; // Free up memory from our Bounding collider uniqe ptr
 
 	CollisionData Collision(const Collider& other) const;
 
@@ -143,8 +148,12 @@ public:
 		return radius;
 	}
 
+	inline const void SetRadius(float inRadius) {
+		this->radius = inRadius;
+	}
+
 private:
 	glm::vec3 center;
-	float radius;
+	float radius; 
 };
 

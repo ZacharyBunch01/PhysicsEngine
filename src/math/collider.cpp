@@ -63,7 +63,10 @@ CollisionData Collider::Collision(const Collider& other) const
 		switch (other.GetType())
 		{
 		case(ColliderID::BOX):
+				// std::cout << "box-box" << std::endl;
 
+				box = (BoundingBox*)this;
+				return box->CollisionBoundingBox((BoundingBox&)other);
 			break;
 
 		case(ColliderID::SPHERE):
@@ -97,7 +100,10 @@ CollisionData Collider::Collision(const Collider& other) const
 
 		case(ColliderID::SPHERE):
 
+			// std::cout << "sphere-sphere" << std::endl;
+
 			sphere = (BoundingSphere*)this;
+
 			return sphere->CollisionBoundingSphere((BoundingSphere&)other);
 
 			break;
@@ -170,7 +176,7 @@ CollisionData BoundingPlane::CollisionBoundingSphere(const BoundingSphere& spher
 CollisionData BoundingSphere::CollisionBoundingSphere(const BoundingSphere& sphere)
 {
 	float radiusDistance = radius + sphere.radius;
-	float centerDistance = (sphere.GetCenter() - center).length();
+	float centerDistance = glm::length(sphere.Position - this->Position);
 	float distance = centerDistance - radiusDistance;
 
 	return CollisionData(centerDistance < radiusDistance, distance);

@@ -17,7 +17,6 @@ void PhysicsEngine::HandleCollisions(Scene& scene)
     // std::cout << "HandleCollisions is being called" << std::endl;
 
     // Broad Phase (skipped for simplicity in this example)
-    // You should implement a broad phase to improve performance.
 
     // Narrow Phase and Resolution
     for (int i = 0; i < scene.GetNumOfObjects(); ++i) 
@@ -30,7 +29,7 @@ void PhysicsEngine::HandleCollisions(Scene& scene)
 	    if (objA == objB)
 	    	continue;
 
-            if (CheckCollision(objA->rigidBody, objB->rigidBody))
+            if (CheckCollision(objA->rigidBody, objB->rigidBody).getDoesCollide())
             {
 		std::cout << "Collision!!!" << std::endl;
 
@@ -40,12 +39,9 @@ void PhysicsEngine::HandleCollisions(Scene& scene)
     }
 }
 
-bool PhysicsEngine::CheckCollision(const RigidBody& bodyA, const RigidBody& bodyB)
+CollisionData PhysicsEngine::CheckCollision(const RigidBody& bodyA, const RigidBody& bodyB)
 {
-    // Example for spheres
-    float distance = glm::length(bodyA.position - bodyB.position);
-    float combinedRadius = bodyA.radius + bodyB.radius;
-    return distance < combinedRadius;
+	return bodyA.collider->Collision(*bodyB.collider);
 }
 
 void PhysicsEngine::ResolveCollision(RigidBody& bodyA, RigidBody& bodyB)

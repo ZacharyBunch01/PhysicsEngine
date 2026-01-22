@@ -1,3 +1,6 @@
+//std
+#include <memory>
+
 // GLM
 #include <GLM/glm/glm.hpp>
 #include <GLM/glm/gtc/quaternion.hpp>
@@ -30,7 +33,7 @@ public:
     // Update velocity according to input
     void SetVelocity(const glm::vec3& vel);
 
-    Collider collider;
+    std::unique_ptr<Collider>collider = nullptr;
 
 private:
     PhysicsID physicsID;

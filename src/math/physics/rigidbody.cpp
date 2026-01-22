@@ -1,7 +1,7 @@
 #include "rigidbody.hpp"
 
 RigidBody::RigidBody(PhysicsID in, const glm::vec3& inPos, const glm::vec3& inVelocity, float inRadius)
-    : physicsID(in), position(inPos), velocity(inVelocity), radius(inRadius), collider(ColliderID::BOX)
+    : physicsID(in), position(inPos), velocity(inVelocity), radius(inRadius)
 {
     switch (in)
     {
@@ -39,15 +39,15 @@ void RigidBody::SetVelocity(const glm::vec3& vel)
 
 void RigidBody::InitBoxCollider()
 {
-    this->collider = Collider(ColliderID::BOX);
+    this->collider = std::make_unique<Collider>(ColliderID::BOX);
 }
 
 void RigidBody::InitPlaneCollider()
 {
-    this->collider = Collider(ColliderID::PLANE);
+    this->collider = std::make_unique<Collider>(ColliderID::PLANE);
 }
 
 void RigidBody::InitSphereCollider()
 {
-    this->collider = Collider(ColliderID::SPHERE);
+	this->collider = std::make_unique<BoundingSphere>(this->position, this->radius);
 }
