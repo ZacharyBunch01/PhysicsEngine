@@ -24,8 +24,8 @@ Scene scene;
 
 PhysicsEngine physics;
 
-Object* cube = new Object{"../res/cube.obj", PhysicsID::SPHERE, 0.5f};
-Object* cube2 = new Object("../res/cube.obj", PhysicsID::SPHERE, 0.5f);
+Object* cube = new Object{"../res/cube.obj", PhysicsID::BOX, 0.5f};
+Object* cube2 = new Object("../res/cube.obj", PhysicsID::BOX, 0.5f);
 
 Object* floorObject = new Object{"../res/cube.obj", PhysicsID::BOX};
 
@@ -73,8 +73,8 @@ int main()
     //scene.RemoveLight(&light);
     //scene.AddLight(&light2);
 
-    cube->rigidBody.collider->SetType(ColliderID::SPHERE);
-    cube2->rigidBody.collider->SetType(ColliderID::SPHERE);
+    cube->rigidBody.collider->SetType(ColliderID::BOX);
+    cube2->rigidBody.collider->SetType(ColliderID::BOX);
     // floorObject->rigidBody.collider.SetType(ColliderID::SPHERE);
 
     while(glfwGetKey(window.getWindow(), GLFW_KEY_ESCAPE ) != GLFW_PRESS &&

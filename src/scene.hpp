@@ -12,6 +12,8 @@
 //Pragma
 #pragma once
 
+constexpr static glm::vec3 gravity = glm::vec3(0.0f, -9.81f, 0.0f);
+
 class Scene
 {
 private:
@@ -36,7 +38,5 @@ public:
 	void Update(float dt);
 
 	void Unload();
-
-	glm::vec3 gravity = glm::vec3(0.0f, -1.0f, 0.0f);
 };
 

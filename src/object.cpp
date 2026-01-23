@@ -164,5 +164,5 @@ void Object::InitPhysicsBody()
 
 void Object::ApplyGravity(float dt, glm::vec3 gravity)
 {
-    rigidBody.velocity += gravity * dt * 9.81f;
+    rigidBody.velocity += gravity * dt;
 }
