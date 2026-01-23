@@ -14,9 +14,9 @@ enum PhysicsID { BOX, SPHERE, PLANE, NULLBODY };
 class RigidBody
 {
 public:
-    RigidBody(PhysicsID in, const glm::vec3& inPos, const glm::vec3& inVelocity, float inRadius);
+    RigidBody(PhysicsID in, const glm::vec3 inPos, const glm::vec3 inVelocity, float inRadius);
 
-    void InitRigidBody(const glm::vec3& inPos, const glm::vec3& inVelocity);
+    void InitRigidBody(const glm::vec3 inPos, const glm::vec3 inVelocity);
 
     // Updates rigidbody position; called by the physics engine
     void Integrate(float delta);
@@ -28,7 +28,7 @@ public:
     float restitution = 0.5f; // Default restitution (elasticity)
 
     // Update velocity according to input
-    void SetVelocity(const glm::vec3& vel);
+    void SetVelocity(const glm::vec3 vel);
 
     Collider collider;
 

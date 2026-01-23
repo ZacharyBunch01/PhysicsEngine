@@ -78,7 +78,7 @@ private:
 class BoundingBox : public Collider
 {
 public:
-	BoundingBox(const glm::vec3& inMinExtents, const glm::vec3& inMaxExtents) : Collider(Collider::BOX_COLLIDER), minExtents(inMinExtents), maxExtents(inMaxExtents)
+	BoundingBox(const glm::vec3 inMinExtents, const glm::vec3 inMaxExtents) : Collider(Collider::BOX_COLLIDER), minExtents(inMinExtents), maxExtents(inMaxExtents)
 	{
 
 	}
@@ -103,7 +103,7 @@ private:
 class BoundingPlane : public Collider
 {
 public:
-	BoundingPlane(const glm::vec3& inNormal, const float& inDistance) : Collider(Collider::PLANE_COLLIDER), normal(inNormal), distance(inDistance)
+	BoundingPlane(const glm::vec3 inNormal, const float inDistance) : Collider(Collider::PLANE_COLLIDER), normal(inNormal), distance(inDistance)
 	{
 
 	}
@@ -130,14 +130,14 @@ private:
 class BoundingSphere : public Collider
 {
 public:
-	BoundingSphere(const glm::vec3& inCenter, float inRadius) : Collider(SPHERE_COLLIDER), center(inCenter), radius(inRadius)
+	BoundingSphere(const glm::vec3 inCenter, float inRadius) : Collider(SPHERE_COLLIDER), center(inCenter), radius(inRadius)
 	{
 		
 	}
 
 	CollisionData CollisionBoundingSphere(const BoundingSphere& sphere);
 
-	virtual void Transform(const glm::vec3& translation);
+	virtual void Transform(const glm::vec3 translation);
 
 
 	inline const glm::vec3 GetCenter() const
