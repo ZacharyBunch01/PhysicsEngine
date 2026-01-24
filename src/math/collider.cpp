@@ -17,7 +17,7 @@ float MaxFunction(glm::vec3& vec)
 	return result;
 }
 
-glm::vec3 MaxFunction2(glm::vec3& vec, glm::vec3& vec2)
+glm::vec3 MaxFunction(glm::vec3& vec, glm::vec3& vec2)
 {
 	glm::vec3 result;
 
@@ -151,7 +151,7 @@ CollisionData BoundingBox::CollisionBoundingBox(const BoundingBox& box) const
 {
 	glm::vec3 distance1 = box.GetMinExtents() - maxExtents;
 	glm::vec3 distance2 = minExtents - box.GetMaxExtents();
-	glm::vec3 distances = glm::vec3(MaxFunction2(distance1, distance2));
+	glm::vec3 distances = glm::vec3(MaxFunction(distance1, distance2));
 
 	float maxDistance = MaxFunction(distances);
 
