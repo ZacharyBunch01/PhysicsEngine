@@ -20,12 +20,12 @@ public:
 
 	}
 
-	inline bool getDoesCollide() const
+	bool getDoesCollide() const
 	{
 		return doesCollide;
 	}
 
-	inline float getDistance() const 
+	float getDistance() const 
 	{
 		return distance;
 	}
@@ -49,8 +49,15 @@ public:
 
 	Collider(ColliderID inType) : type(inType) {
 		switch(inType) {
-			
+			case(ColliderID::BOX):
+			break;
+			case(ColliderID::SPHERE):
+			break;
+			case(ColliderID::PLANE):
+			break;
 
+			default:
+				break;;	
 		}	
 	}
 
@@ -62,7 +69,7 @@ public:
 
 	void MoveCollider(glm::vec3 inPos);
 
-	inline ColliderID GetType() const 
+	ColliderID GetType() const 
 	{
 		return type;
 	}
@@ -71,6 +78,8 @@ public:
 
 private:
 	ColliderID type;
+	//BoundingBox box;
+	//BoundingSphere sphere;
 };
 
 class BoundingBox : public Collider
@@ -83,12 +92,12 @@ public:
 
 	CollisionData CollisionBoundingBox(const BoundingBox& box) const;
 
-	const glm::vec3 GetMinExtents() const
+	glm::vec3 GetMinExtents() const
 	{
 		return minExtents;
 	}
 
-	const glm::vec3 GetMaxExtents() const
+	glm::vec3 GetMaxExtents() const
 	{
 		return maxExtents;
 	}
@@ -110,12 +119,12 @@ public:
 
 	CollisionData CollisionBoundingSphere(const BoundingSphere& sphere) const;
 
-	const glm::vec3 GetNormal() const
+	glm::vec3 GetNormal() const
 	{
 		return normal;
 	}
 
-	const float GetDistance() const
+	float GetDistance() const
 	{
 		return distance;
 	}
@@ -137,18 +146,17 @@ public:
 
 	virtual void Transform(const glm::vec3& translation);
 
-
-	inline const glm::vec3 GetCenter() const
+	glm::vec3 GetCenter() const
 	{
 		return center;
 	}
 
-	inline const float GetRadius() const
+	float GetRadius() const
 	{
 		return radius;
 	}
 
-	inline const void SetRadius(float inRadius) {
+	void SetRadius(float inRadius) {
 		this->radius = inRadius;
 	}
 
