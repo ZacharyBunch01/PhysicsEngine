@@ -7,8 +7,9 @@
 struct Object
 {
 public:
-    Object(const char* modelPath, PhysicsID in = PhysicsID::BOX);
-    Object(const char* modelPath, PhysicsID in, float inRadius);
+    Object(const char* modelPath, PhysicsID in = PhysicsID::BOX, glm::vec3 minExtents = glm::vec3(0.1f), glm::vec3 maxExtents = glm::vec3(1.0f));
+    Object(const char* modelPath, PhysicsID in = PhysicsID::SPHERE, float inRadius);
+    Obejct(const char* modepPath, PhysicsID in);
 
     const char* modelFile;
 

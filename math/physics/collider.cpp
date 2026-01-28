@@ -139,8 +139,8 @@ void Collider::Transform(const glm::vec3& translation)
 
 CollisionData BoundingBox::CollisionBoundingBox(const BoundingBox& box) const
 {
-	glm::vec3 distance1 = box.GetMinExtents() - maxExtents;
-	glm::vec3 distance2 = minExtents - box.GetMaxExtents();
+	glm::vec3 distance1 = box.GetMinExtents() - this->maxExtents;
+	glm::vec3 distance2 = this->minExtents - box.GetMaxExtents();
 	glm::vec3 distances = glm::vec3(MaxFunction2(distance1, distance2));
 
 	float maxDistance = MaxFunction(distances);

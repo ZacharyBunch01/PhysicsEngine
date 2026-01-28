@@ -1,6 +1,6 @@
 #include "rigidbody.hpp"
 
-RigidBody::RigidBody(PhysicsID in, const glm::vec3& inPos, const glm::vec3& inVelocity, float inRadius)
+RigidBody::RigidBody(PhysicsID in, const glm::vec3 inPos, const glm::vec3 inVelocity, float inRadius)
     : physicsID(in), position(inPos), velocity(inVelocity), radius(inRadius)
 {
     switch (in)
@@ -20,7 +20,7 @@ RigidBody::RigidBody(PhysicsID in, const glm::vec3& inPos, const glm::vec3& inVe
     InitRigidBody(this->position, this->velocity);
 }
 
-void RigidBody::InitRigidBody(const glm::vec3& inPos, const glm::vec3& inVelocity)
+void RigidBody::InitRigidBody(const glm::vec3 inPos, const glm::vec3 inVelocity)
 {
     this->position = inPos;
     this->velocity = inVelocity;

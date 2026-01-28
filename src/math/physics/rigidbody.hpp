@@ -17,9 +17,9 @@ enum class PhysicsID { BOX, SPHERE, PLANE, NULLBODY };
 class RigidBody
 {
 public:
-    RigidBody(PhysicsID in, const glm::vec3& inPos, const glm::vec3& inVelocity, float inRadius);
-
-    void InitRigidBody(const glm::vec3& inPos, const glm::vec3& inVelocity);
+    RigidBody(PhysicsID in = PhysicsID::BOX, const glm::vec3 inPos, const glm::vec3 inVelocity, float inMinExtents = glm::vec3(0.1f), glm::vec3 inMaxExtents = glm::vec3(1.0f));
+    RigidBody(PhysicsID in, const glm::vec3 inPos, const glm::vec3 inVelocity, float inRadius);
+    void InitRigidBody(const glm::vec3 inPos, const glm::vec3 inVelocity);
 
     // Updates rigidbody position; called by the physics engine
     void Integrate(float delta);

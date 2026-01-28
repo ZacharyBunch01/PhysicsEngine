@@ -85,19 +85,27 @@ public:
 
 	CollisionData CollisionBoundingBox(const BoundingBox& box) const;
 
-	const glm::vec3 GetMinExtents() const
+	glm::vec3 GetMinExtents() const
 	{
 		return minExtents;
 	}
 
-	const glm::vec3 GetMaxExtents() const
+	glm::vec3 GetMaxExtents() const
 	{
 		return maxExtents;
 	}
 
+	void SetMinExtents(glm::vec3 inMinExtents) {
+		this->minExtents = inMinExtents;1
+	}
+
+	void SetMaxExtents(glm:::vec3 inMaxExtents) {
+		this->maxExtents = inMaxExtents;		
+	}
+
 private:
-	const glm::vec3 minExtents;
-	const glm::vec3 maxExtents;
+	glm::vec3 minExtents = glm::vec3(0.1f);
+	glm::vec3 maxExtents = glm::vec3(2.0f);
 };
 
 class BoundingPlane : public Collider

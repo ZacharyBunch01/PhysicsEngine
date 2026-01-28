@@ -13,7 +13,7 @@ extern Player player;
 
 // PURPOSE : Initializes vertex arrays and buffers. Used to pass data to shaders.
 
-Object::Object(const char *modelPath, PhysicsID id) : modelFile(modelPath), physicsID(id)
+Object::Object(const char *modelPath, PhysicsID id, glm::vec3 inMinExtents, glm::vec3 inMaxExtents) : modelFile(modelPath), physicsID(id), minExtents(inMinExtents), maxExtents(inMaxExtents)
 {
     LoadOBJ(modelPath, vertices, textureCoords, normals);
 
