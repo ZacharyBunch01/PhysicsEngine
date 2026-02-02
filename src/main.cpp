@@ -73,7 +73,7 @@ int main()
 
     cube->rigidBody.collider->SetType(ColliderID::BOX);
     cube2->rigidBody.collider->SetType(ColliderID::BOX);
-    floorObject->rigidBody.collider->SetType(ColliderID::SPHERE);
+    floorObject->rigidBody.collider->SetType(ColliderID::BOX);
 
     while(glfwGetKey(window.getWindow(), GLFW_KEY_ESCAPE ) != GLFW_PRESS &&
            glfwWindowShouldClose(window.getWindow()) == 0 )

@@ -47,12 +47,12 @@ void RigidBody::SetVelocity(const glm::vec3& vel)
 
 void RigidBody::InitBoxCollider()
 {
-    this->collider = std::make_unique<Collider>(ColliderID::BOX);
+    this->collider = std::make_unique<BoundingBox>(this->minExtents, this->maxExtents);
 }
 
 void RigidBody::InitPlaneCollider()
 {
-    this->collider = std::make_unique<Collider>(ColliderID::PLANE);
+    this->collider = std::make_unique<BoundingBox>(this->minExtents, this->maxExtents);
 }
 
 void RigidBody::InitSphereCollider()

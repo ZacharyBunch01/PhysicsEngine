@@ -4,6 +4,7 @@
 
 void PhysicsEngine::Simulate(float delta, Scene& scene)
 {
+
     HandleCollisions(scene);
 
     for (unsigned int i = 0; i < scene.GetNumOfObjects(); i++)
