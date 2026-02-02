@@ -46,7 +46,5 @@ private:
     void InitSphereCollider();
 
     void initPhys(PhysicsID in);
-
-    void InitRigidBodiy(const glm::vec3 inPos, const glm::vec3 inVelocity);
 };
 
