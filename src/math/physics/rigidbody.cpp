@@ -1,8 +1,16 @@
 #include "rigidbody.hpp"
 
+RigidBody::RigidBody(PhysicsID in, const glm::vec3 inPos, const glm::vec3 inVelocity, glm::vec3 inMinExtents, glm::vec3 inMaxExtents) : physicsID(in), position(inPos), velocity(inVelocity), minExtents(inMinExtents), maxExtents(inMaxExtents) {
+	initPhys(in);
+}
+
 RigidBody::RigidBody(PhysicsID in, const glm::vec3 inPos, const glm::vec3 inVelocity, float inRadius)
     : physicsID(in), position(inPos), velocity(inVelocity), radius(inRadius)
 {
+	initPhys(in);
+}
+
+void RigidBody::initPhys(PhysicsID in) {
     switch (in)
     {
     case PhysicsID::BOX:

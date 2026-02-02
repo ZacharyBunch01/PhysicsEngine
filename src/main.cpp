@@ -24,10 +24,10 @@ Scene scene;
 
 PhysicsEngine physics;
 
-Object* cube = new Object{"../res/cube.obj", PhysicsID::BOX, 0.1f, 1.0f};
-Object* cube2 = new Object("../res/cube.obj", PhysicsID::BOX, 0.1f, 1.0f);
+Object* cube = new Object{"../res/cube.obj", PhysicsID::BOX, glm::vec3(0.0f), glm::vec3(0.1f), glm::vec3(1.0f)};
+Object* cube2 = new Object("../res/cube.obj", PhysicsID::BOX, glm::vec3(0.0f), glm::vec3(0.1f), glm::vec3(1.0f));
 
-Object* floorObject = new Object{"../res/cube.obj", PhysicsID::BOX};
+Object* floorObject = new Object{"../res/cube.obj", PhysicsID::BOX, glm::vec3(0.0f), glm::vec3(0.1f), glm::vec3(1.0f)};
 
 Light* light = new Light{glm::vec3(3.0f, 10.0f, 4.0f), glm::vec3(1.0f, 10.0f, 1.0f), 1, glm::vec3(0.0f, 0.0f, 0.0f)};
 Light* light2 = new Light{glm::vec3(-5.0f, 10.0f, -5.0f), glm::vec3(0.2f, 0.75f, 0.2f), 1, glm::vec3(0.0f)};

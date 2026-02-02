@@ -13,7 +13,7 @@ extern Player player;
 
 // PURPOSE : Initializes vertex arrays and buffers. Used to pass data to shaders.
 
-Object::Object(const char *modelPath, PhysicsID id, glm::vec3 inMinExtents, glm::vec3 inMaxExtents) : modelFile(modelPath), physicsID(id), minExtents(inMinExtents), maxExtents(inMaxExtents)
+Object::Object(const char *modelPath, PhysicsID id, glm::vec3 inPosition, glm::vec3 inMinExtents, glm::vec3 inMaxExtents) : modelFile(modelPath), physicsID(id), Position(inPosition), minExtents(inMinExtents), maxExtents(inMaxExtents)
 {
     LoadOBJ(modelPath, vertices, textureCoords, normals);
 
@@ -51,7 +51,7 @@ Object::Object(const char *modelPath, PhysicsID id, glm::vec3 inMinExtents, glm:
 }
 
 // Object constructor
-Object::Object(const char* modelPath, PhysicsID id, float inRadius) : modelFile(modelPath), physicsID(id), radius(inRadius)
+Object::Object(const char* modelPath, PhysicsID id, glm::vec3 inPosition, float inRadius) : modelFile(modelPath), physicsID(id), Position(inPosition), radius(inRadius)
 {
     LoadOBJ(modelPath, vertices, textureCoords, normals);
 
@@ -71,8 +71,6 @@ Object::Object(const char* modelPath, PhysicsID id, float inRadius) : modelFile(
     glBufferData(GL_ARRAY_BUFFER, textureCoords.size() * sizeof(glm::vec3), &textureCoords[0], GL_STATIC_DRAW);
 
     InitPhysicsBody();
-    
-    InitPhysicsBody();
     rigidBody.InitRigidBody(Position, Velocity);
 
     if (id == PhysicsID::BOX)
@@ -88,6 +86,10 @@ Object::Object(const char* modelPath, PhysicsID id, float inRadius) : modelFile(
         radius = 1.0f;
         rigidBody = RigidBody(PhysicsID::SPHERE, Position, Velocity, radius);
     }
+}
+
+Object::Object(const char* modelPath, PhysicsID in, glm::vec3 inPosition) : modelFile(modelPath), physicsID(in), Position(inPosition) {
+		// TODO
 }
 
 // PURPOSE : Renders object; runs in while loop in main.

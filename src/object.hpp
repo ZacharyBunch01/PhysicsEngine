@@ -7,9 +7,9 @@
 struct Object
 {
 public:
-    Object(const char* modelPath, PhysicsID in = PhysicsID::BOX, glm::vec3 minExtents = glm::vec3(0.1f), glm::vec3 maxExtents = glm::vec3(1.0f));
-    Object(const char* modelPath, PhysicsID in = PhysicsID::SPHERE, float inRadius);
-    Obejct(const char* modepPath, PhysicsID in);
+    Object(const char* modelPath, PhysicsID in, glm::vec3 inPosition = glm::vec3(0.0f), glm::vec3 minExtents = glm::vec3(0.1f), glm::vec3 maxExtents = glm::vec3(1.0f));
+    Object(const char* modelPath, PhysicsID in = PhysicsID::SPHERE, glm::vec3 inPosition = glm::vec3(0.0f), float inRadius = 1.0f);
+    Object(const char* modelPath, PhysicsID in, glm::vec3 inPosition = glm::vec3(0.0f));
 
     const char* modelFile;
 
@@ -21,7 +21,6 @@ public:
     glm::vec3 Velocity = glm::vec3(0.0f);
     float Mass = 1.0f;
     glm::vec3 Force = glm::vec3(0.0f);
-
     //Collider collider;
     RigidBody rigidBody = RigidBody(PhysicsID::BOX, glm::vec3(0.0f), glm::vec3(0.0f), 0.0f);
 
